@@ -1,3 +1,3 @@
 # AI Political Perspectives
 
-Codedusing 3.13.7
+Coded using 3.13.7
