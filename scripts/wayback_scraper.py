@@ -8,9 +8,8 @@ Configuration is hardcoded in the main() function.
 import os
 import re
 import time
-import hashlib
-# Removed import argparse
 import json
+import hashlib
 from typing import List, Optional
 
 import requests
