@@ -1,0 +1,14 @@
+{
+    "headline": "Fbi Director Compares Ransomware Challenge 911",
+    "summary": "In aThursday interview with The Wall Street Journal, FBI Director Christopher Wray compared therecent wave of ransomware cyberattacksto the challenge posed by the 9/11 terrorist attacks. \u201cThe scale of this problem is one that I think the country has to come to terms with,\u201d Wray said. The same day,Reuters reportedthat the Department of Justice would treat ransomware attacks with the same priority as terrorism, directing U.S. attorney\u2019s offices to coordinate with a recently created task force in Washington, D.C. Additionally,the White House released an open letterurging businesses to take security measures against ransomware attacks.Coverage was generally balanced across the spectrum and split between Wray\u2019s comments, the Reuters report and the White House letter.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/06/04/politics/christopher-wray-cyberattacks-9-11/index.html",
+            "https://www.axios.com/justice-department-ransomware-attacks-terrorism-d589a328-9318-4330-bbc6-d0b6ef3c3970.html"
+        ],
+        "center": [],
+        "right": [
+            "https://nypost.com/2021/06/04/fbi-director-wray-compares-ransomware-threat-to-9-11/"
+        ]
+    }
+}

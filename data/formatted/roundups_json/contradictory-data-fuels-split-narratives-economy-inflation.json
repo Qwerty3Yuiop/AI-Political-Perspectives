@@ -1,0 +1,15 @@
+{
+    "headline": "Contradictory Data Fuels Split Narratives Economy Inflation",
+    "summary": "Recent data about inflation, wages and\u00a0poverty is driving confusion about the state of the U.S. economy. The Labor Department announced Tuesday thatconsumer prices rose 0.3% in August\u00a0from July, another monthly rise but\u00a0the slowest increase since January; consumer prices also rose annually\u00a0again in August, up 5.3%.Producer prices\u00a0rose in August by 8.3% annually, the highest jump since records began in 2009.\u00a0Meanwhile, poverty reached a record low in 2020 amid the COVID-19 pandemic.\u00a0Roughly 9.1% of Americans qualified as poor in 2020according to the Census Bureau,\u00a0down from 11.8% in 2019 and the lowest figure since records began in 1967. Average earnings for non-farm employees\u00a0also rose in August for the fifth consecutive month, but inflation counteracts some of that\u00a0\u2014\u00a0wages adjusted for inflation\u00a0fell 0.5% annually\u00a0in August,\u00a0according to the Wall Street Journal. And despite therecord-high 10.9 million U.S. job openings at the end of July, the economy remains over 5 million jobs short of its pre-pandemic workforce. The235,000 jobs added in Augustwere short of expectations.Left-rated sources focused more on the decline in poverty, often framing it as a direct result of the trillions of dollars of\u00a0pandemic-era stimulus from the federal government. Right-rated outlets, as well as business-focused center-rated outlets like the Wall Street Journal, instead highlighted\u00a0inflation and rises in consumer prices, as well as concerns about high government spending and generous federal unemployment benefits.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/09/14/business/economy/census-income-poverty-health-insurance.html"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/labor-shortages-give-low-pay-workers-a-raise-inflation-eats-it-up-11631637683?mod=hp_lead_pos1"
+        ],
+        "right": [
+            "https://www.theepochtimes.com/consumer-price-hikes-soften-in-august-annual-inflation-stays-stubbornly-high_3996500.html?utm_source=partner&utm_campaign=allsides"
+        ]
+    }
+}

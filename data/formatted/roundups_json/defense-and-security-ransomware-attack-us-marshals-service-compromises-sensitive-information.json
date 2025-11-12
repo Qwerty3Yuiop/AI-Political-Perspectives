@@ -1,0 +1,15 @@
+{
+    "headline": "Defense And Security Ransomware Attack Us Marshals Service Compromises Sensitive Information",
+    "summary": "A ransomware attack on the U.S.\u00a0Marshals Service (USMS) impacted a computer system containing \"law enforcement sensitive information,\" including data on fugitives and\u00a0targets of investigations.The Details:A USMS spokesperson said Monday the \"affected system contains law enforcement sensitive information, including returns from legal process, administrative information, and personally identifiable information pertaining to subjects of USMS investigations, third parties, and certain USMS employees.\" The service discovered the hack and data theft on Feb. 17, and \"disconnected the affected system, and the Department of Justice initiated a forensic investigation.\"For Context:The USMS is a federal law enforcement agency within the Department of Justice that\u00a0handles federal prisoners and pursues fugitives. Earlier in February, the FBI alsosaidit had \"contained\" a \"malicious cyber incident\" on its network. In January, U.S. authorities said theyseized the serversof the notorious \"Hive\" ransomware group.How the Media Covered It:Sources across the spectrum\u00a0reported the news in a similar fashion, and highlighted reports that witness protection data wasn't compromised. Fox News highlighted other recent cybersecurity incidents at smaller organizations, including a hospital in Florida and a labor union in Boston.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2023/02/27/politics/us-marshals-service-ransomeware-attack/index.html"
+        ],
+        "center": [
+            "https://www.reuters.com/world/us/us-marshals-service-suffers-major-security-breach-nbc-news-2023-02-28/"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/us-marshals-service-attacked-ransomware-targeting-sensitive-law-enforcement-information-report"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "headline": "Should Biden Run Again 2024",
+    "summary": "Some Democrats are divided over whether President Joe Biden should run for president again in 2024.The New York\u00a0Times published interviews this week with dozens of Democrats, many of whom were \"alarmed about Republicans\u2019 rising strength and extraordinarily pessimistic about an immediate path forward\" for their party. The Times explained how many top Democrats interviewed for the story wished to remain anonymous, but that their key concerns about Biden running again were his age and the \"repeated failures of his administration to pass big-ticket legislation on signature Democratic issues.\"\u00a0At 79, Biden is the oldest sitting U.S. president ever, and would be 86 at the end of a second term.Biden's\u00a0approval rating also continues to trend downward. Multiple polls, includingFiveThirtyEight (Center), have his public approval at thelowest point of his presidency.News sources across the political spectrum have highlighted the conversation about Biden's possible 2024 campaign. Coverage from right-rated sources tends to focus on Biden's low approval ratings and frame Biden as old and incompetent. Many on the right focused on Democrats who are concerned that Biden unfit to run again and framed Democrats as being in disarray over the issue. Several voices from left-rated outlets, such asThe Atlantic (Lean Left bias)andDaily Beast (Left bias), alsowroteopinionsthis week about why Biden shouldn't run in 2024, often highlighting his age and arguing that Democrats need a more forceful presence.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2022/06/11/us/politics/biden-2024-election-democrats.html",
+            "https://www.axios.com/2022/06/13/biden-2024-election-white-house"
+        ],
+        "center": [],
+        "right": [
+            "https://dailycaller.com/2022/06/14/democratic-senators-biden-2024/"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Western Wildfires Burn Tens Thousands Acres",
+    "summary": "Wildfires in California, Oregon and Washingtonhave burned tens of thousands of acres, and many remain mostly uncontained.InCalifornia, the two biggest blazes are still burning.\u00a0The Mosquito fire has burned through 46,587 acres, and the Fairview fire,\u00a0which has been about 49% contained, has burned through 28,307 acres as of Monday morning. InWashington state, a blaze in the remote Stevens Pass area sent hikers fleeing and forced\u00a0evacuations, while the Bolt Creek Fire near Seattle has scorched nearly 12 square miles. InOregon, 3,000 Portland-area residents were forced to evacuate because of the\u00a0134-square-mile Cedar Creek fire that has burned more than 32,000 acres.Some scientists say climate change andsoaring temperatureshas made the West drier over the last three decades and will continue to makeweather more extremeandwildfires more frequentand destructive.Sources across the political spectrum,especially on the left and center, covered the wildfires. Reports from left- and center-rated sources often highlighted voices who linked the fires to\u00a0climate change and argued thatheatwaves and wildfires worsen air pollution.",
+    "story": {
+        "left": [
+            "https://apnews.com/article/wildfires-fires-california-sacramento-weather-253fe503dc886f57bb6a95dabbb43bff"
+        ],
+        "center": [
+            "https://www.newsweek.com/california-fire-map-update-mosquito-fairview-1742006"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/news/oregon-wildfire-0-contained-burns-87-000-acres"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "headline": "Why Government Limiting Monoclonal Antibody Treatments Covid 19",
+    "summary": "The government's newest rules for which COVID-19 treatments can be used sparked significant backlash from the state of Florida.TheFood and Drug Administration (FDA) halted monoclonal antibody treatmentsmade by Regeneron and Eli Lilly this week after reporting that they\u2019re \"highly unlikely\"\u00a0to work against the now-dominant Omicron variant.\u00a0In Florida, where multiple monoclonal antibody facilities had been treating patients, Gov. Ron DeSantis condemned the FDA's move as \"indefensible,\" saying\u00a0it \"takes treatment out of the hands of medical professionals.\" A Monday press release from Florida's Department of Health announced closure of the state's monoclonal antibody treatment sites while citinga study on the National Institutes of Health (NIH) websitethat says the effectiveness of monoclonal remedies against Omicron \"remains to be determined.\"\u00a0Before Omicron's rise, the\u00a0treatments were found to be effective in preventing COVID-19 hospitalizations.Coverage from left-rated sources often highlighted the FDA's announcement and other health experts who said monoclonal antibody treatments were ineffective against Omicron; few, if any, highlighted experts who opposed the FDA's announcement. Conversely, reports from right-rated sources typically focused more on\u00a0experts who celebrated the monoclonal treatments and were skeptical of the FDA's move. Many also highlighted the study that suggests more research is needed on how effective monoclonal antibodies are against Omicron. Several voices from left-rated media outlets, such asSalon (Left bias)andWashington Post (Lean Left), accused DeSantis oflying about the effectivenessof the treatments in an attempt toappeaseanti-vaccine voters.",
+    "story": {
+        "left": [
+            "https://www.axios.com/local/tampa-bay/2022/01/26/desantis-fumes-over-fed-interference-fda",
+            "https://www.usatoday.com/story/news/health/2022/01/27/omicron-variant-fda-monoclonal-antibodies-covid/9211114002/"
+        ],
+        "center": [],
+        "right": [
+            "https://www.theepochtimes.com/experts-divided-on-us-drug-regulators-revoking-authorization-of-key-covid-19-treatments_4240214.html?utm_source=partner&utm_campaign=allsides"
+        ]
+    }
+}

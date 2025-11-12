@@ -1,0 +1,14 @@
+{
+    "headline": "Criminal Justice Fbi Preliminary Data Shows Historic Decrease Violent Crime",
+    "summary": "Preliminary statistics from the Federal Bureau of Investigation reported a sharp decline in violent crime in the first quarter of 2024.Key Quote:The FBI released a statement reading, \u201cMurder decreased by 26.4 percent, rape decreased by 25.7 percent, robbery decreased by 17.8 percent, and aggravated assault decreased by 12.5 percent. Reported property crime also decreased by 15.1 percent.\u201d Attorney General Merrick Garland called the drop \u201chistoric,\u201d stating that the data \u201crepresents people whose lives were saved \u2014 people who are still here to see their children grow up, to work toward fulfilling their dreams, and to contribute to their communities.\u201dData Skepticism:BothNewsweek (Center bias)andReason (Lean Right bias)noted concerns that the FBI\u2019s data is not a holistic representation of crime in America. Newsweek quoted multiple sources attributing the decline to changes in reporting standards and a \u201ccollapse in the criminal justice system.\u201d Reason cited a study determining that \u201cfewer than half of violent crimes (excluding murder) and property crimes are reported to the police.\u201dHow the Media Covered It:Outlets across the spectrum highlighted a disparity between the statistics showing a decline in crime and polls showing a public perception that crime is a pressing issue.NBC News (Lean Left bias)highlighted the political implications of the report, stating that the data could \u201cundermine what has been a regular campaign talking point for Donald Trump,\u201d who claims that President Joe Biden has led to an increase in crime.",
+    "story": {
+        "left": [
+            "https://www.nbcnews.com/news/us-news/new-fbi-stats-show-historic-declines-violent-crime-rate-murder-showing-rcna156573"
+        ],
+        "center": [
+            "https://www.newsweek.com/fbi-crime-data-violence-biden-trump-1911383",
+            "https://reason.com/2024/06/11/preliminary-fbi-data-crime-steeply-declined-in-early-2024/"
+        ],
+        "right": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Technology What Does Dojs Antitrust Lawsuit Against Google Mean Big Tech",
+    "summary": "On Tuesday, the Department of Justice\u2019s antitrust case against Google is set to begin. It is the first antitrust case against a technology company brought to trial since Microsoft in 1998.The Allegations:According to aReuters (Center bias)analysis, the Justice Department is arguing that Google unlawfully stifled competition by paying other technology companies \u2014 such as Apple \u2014 to make Google the default browser on these companies\u2019 devices. Google denies the antitrust allegations, arguing that the agreements were \u201clegitimate competition\u201d and that consumers retained the option to switch to alternative browsers.What Does It Mean For Big Tech?An analysis inThe Atlantic (Left bias)determined that the case represents a shifting attitude in Washington toward major technology companies, which have enjoyed a \u201cfreewheeling heyday\u201d for the past few decades. The article states the changing stance on tech companies is not exclusive to one party, writing, \u201cRepublicans and Democrats alike are now interested in bringing Big Tech down a notch.\u201dThe Judge:The Washington Examiner (Lean Right bias)profiled the judge overseeing the antitrust case. Judge Amit Mehta was appointed to the court in 2014 by President Obama. His decisions during this trial \u201cmay be integral to what happens to the world's largest search engine.\u201d In August, Mehta narrowed the scope of the lawsuit, stating that a \u201cdominant firm like Google does not violate the law, however, merely because it occupies a monopoly market position. It must act in a manner that produces anticompetitive effects in the defined markets.\u201d",
+    "story": {
+        "left": [
+            "https://www.theatlantic.com/newsletters/archive/2023/09/google-antitrust-lawsuit-trial/675253/"
+        ],
+        "center": [
+            "https://www.reuters.com/legal/why-is-us-suing-google-antitrust-violations-2023-09-11/"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/courts/meet-obama-appointed-judge-holds-googles-fate"
+        ]
+    }
+}

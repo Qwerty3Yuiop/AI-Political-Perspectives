@@ -1,0 +1,15 @@
+{
+    "headline": "Public Health Hhs Halts Federal Funding Mrna Vaccines Plans Safer Broader Program",
+    "summary": "The Department of Health and Human Services (HHS) will reportedly cease federal funding for mRNA vaccine development, terminating 22 projects worth about $500 million.The Details:The \u201ccoordinated wind-down,\u201d announced Tuesday, follows a review of mRNA-related investments that began during the COVID-19 pandemic. According to HHS Secretary Robert F. Kennedy Jr., data show that mRNA vaccines fail to effectively protect against upper respiratory infections like COVID-19 and influenza, and funding will shift towards \u201csafer, broader vaccine platforms that remain effective even as viruses mutate.\u201d Non-vaccine-focused mRNA technology will reportedly remain in use.For Context:Kennedy has expressed skepticism about mRNA technology, pointing to the risk of vaccines becoming ineffective if the target virus mutates significantly. He is also known, as part of his \u201cMake America Healthy\u201d (MAHA) movement, for questioning the effectiveness of some vaccines and their side effects.Kennedy announced Tuesday that he plans to \u201cfix\u201d the Vaccine Injury Compensation Program (VICP).How The Media Covered It:Media on the left frame vaccines more positively overall than media on the right, which are often in line with Kennedy\u2019s skepticism.CBS News (Lean Left bias)highlighted criticism from infectious disease experts, who warned that the cuts could leave Americans vulnerable to new or mutating viruses.The Hill (Center)focused on the details of the policy shift without significant political slant.Washington Examiner (Lean Right)emphasized Kennedy\u2019s rationale for the decision and included his video emphasizing limitations of mRNA vaccines; however, the outlet also noted that the cuts followed pressure from Kennedy\u2019s supporters.Revised by the AllSides staff (of humans) after a first draft from our custom AI.Learn more.Support our mission.Suggest an improvement to this summary.",
+    "story": {
+        "left": [
+            "https://www.cbsnews.com/news/rfk-jr-halts-500-million-for-mrna-vaccine-research/"
+        ],
+        "center": [
+            "https://thehill.com/policy/healthcare/5437642-hhs-ends-mrna-vaccine-development/"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/healthcare/3491935/hhs-cancels-development-mrna-vaccines-flu-covid/"
+        ]
+    }
+}

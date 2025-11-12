@@ -1,0 +1,14 @@
+{
+    "headline": "Fda Authorizes Cdc Recommends Additional Vaccine Dose Certain Immunocompromised People",
+    "summary": "Following theFDA\u2019s expanded emergency use authorizationand aCDC\u00a0advisory board\u2019s recommendation, the CDC officially said Friday that certain immunocompromised people should get a third dose of the Pfizer or Moderna COVID-19 vaccine to protect against the Delta variant. The recommendation is specifically aimed at\u201cmoderately to severely\u201d immunocompromised people, including cancer patients, organ transplant recipients, people with advanced HIV infection, and more. \u201cAt a time when the Delta variant is surging, an additional vaccine dose for some people with weakened immune systems could help prevent serious and possibly life-threatening COVID-19 cases within this population,\u201d CDC Director Rochelle Walensky said in astatementreleased Friday.Coverage was widespread and mostly balanced across the spectrum. Left- and center-rated outlets were more likely to feature the story prominently on homepages on Friday evening.",
+    "story": {
+        "left": [
+            "https://www.cnbc.com/2021/08/13/cdc-covid-boosters-panel-recommends-extra-vaccine-doses-for-vulnerable-americans.html",
+            "https://www.cnn.com/2021/08/13/health/immunocompromised-additional-vaccine-dose-acip/index.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxnews.com/health/cdc-panel-covid-19-booster-dose-immunocompromised"
+        ]
+    }
+}

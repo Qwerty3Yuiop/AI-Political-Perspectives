@@ -1,0 +1,15 @@
+{
+    "headline": "Fact Check There Over 1 Trillion Unspent Covid 19 Relief Funds",
+    "summary": "Reports from the Government Accountability Office (GAO) and the Committee for a Responsible Federal Budget's (CRFB)Covid Money Trackersay that over $1 trillion of\u00a0federal COVID-19 pandemic relief funds have not yet been spent. Republican lawmakers, conservatives and some media outlets have closely tracked unspent funds over the course of the pandemic\u00a0as\u00a0the U.S. government has passed multiple trillion-dollar relief packages.Limited coverage of the $1 trillion claim\u00a0has differed significantly along partisan lines. In February, Politifact (Lean Left bias)\u00a0described the notion as a \"top Republican talking point\" and as \"oversimplifying\u00a0the status of the funds,\" and pointed to aJan. 27 CRFB blog postthat said some of the relief\u00a0money \"is already allocated or scheduled to be spent, and a small portion will never be spent.\"\u00a0A Fox Business (Lean Right) report published Monday framed the GAO report in the context of current Democratic-led efforts to advance $3.5 trillion\u00a0budget reconciliation legislation, and mentioned that thegovernment's 2021 deficit to date is roughly $2.2 trillion. Other outlets, such as the Wall Street Journal (Center), reported as early as last August onbillions of unspent COVID-19 relief dollars.",
+    "story": {
+        "left": [
+            "https://www.politifact.com/factchecks/2021/feb/23/steve-scalise/has-1-trillion-covid-19-relief-gone-unspent/"
+        ],
+        "center": [
+            "https://files.gao.gov/reports/105035/index.html"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/politics/unspent-covid-federal-funds-gao"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Violence America National Homicide Rate Drops 13 2023 After Pandemic Spike",
+    "summary": "Homicide rates in the United States dropped significantly in 2023 after spiking in previous years.Details:According to data released by AH Datalytics, murder is down roughly 13% from this time last year. New York City experienced an 11% drop, Los Angeles experienced a 16% drop, and Chicago experienced a 13% drop. Detroit is on track to record its lowest number of homicides since the 1960s. Despite the significant drop, homicide rates remain elevated compared to pre-pandemic rates, but the year\u2019s decline signified to analysts that the pandemic\u2019s exacerbation of crime appears to be subsiding. One outlier in the decrease is Washington, D.C., where the murder rate this year is the highest in two decades.How the Media Covered It:The report was covered across the spectrum, but was less frequent in right-rated outlets. Both theNew York Times (Lean Left bias)andThe Hill (Center bias)noted that crime rates appear to be out of sync with Americans' perceptions of crime. The New York Times attributed the disconnect to \u201csocial media videos of flash-mob-style shoplifting incidents,\u201d and The Hill cited a Gallup poll to report that \u201c77 percent of Americans surveyed believe crime has increased in the past year.\u201dThe Washington Examiner (Lean Right bias)did not note this disconnect.Why the Difference?Right-rated outlets typically report on crime more prominently and frequently, especially crime in cities and states run by Democratic politicians, potentially contributing to the disconnect highlighted by left- and center-rated outlets.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2023/12/29/us/crime-data-fbi-homicides.html"
+        ],
+        "center": [
+            "https://thehill.com/blogs/blog-briefing-room/4381446-2023-record-drop-homicides/"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/news/crime/us-experiences-record-drop-homicides-2023"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Economy And Jobs How Did 2023s Holiday Spending Compare Last Year",
+    "summary": "U.S. retail sales rose 3.1% year-over-year between Nov. 1 and Dec. 24, according todatafrom Mastercard.The Details:Experts reportedly expected annual growth of 3.7%. The data is not adjusted for inflation. Spending at restaurants (up 7.8%) and on apparel (up 2.4%) rose steadily, while spending on jewelry (down 2%)\u00a0and electronics (down 0.4%)\u00a0fell.For Context:In the same period last year, spending rose 7.6% from the year before.How the Media Covered It:Media across the spectrum covered the question very differently. Many left-rated sources highlighted how\u00a0spending was up, and framed it as a positive sign for Biden\u2019s economy. Many right-rated outlets and some in the center likeNewsweekfocused on how the year-over-year spending growth was 3.1%, compared to an annual\u00a0jump of 7.6% from 2021 to 2022, and framed that as evidence of inflation's toll on consumers. Few\u00a0on the left emphasized\u00a0that comparison to the same extent.ABC News (Lean Left bias)said, \"Robust spending during the holidays appears to have dispelled concern among some economists of a decline.\"New York Post (Lean Right bias)said, \"Inflation-battered shoppers cut back on their holiday spending this year \u2014 opening their wallets mainly for 'big deals,'\u00a0according to industry experts and newly released figures.\" Newsweek said, \"Despite Americans' strategic spending this holiday season, a large number drew in spending as inflationary pressures made many gifts and celebrations out of reach.\"",
+    "story": {
+        "left": [
+            "https://abcnews.go.com/Business/holiday-spending-grew-rebuking-worry-downturn/story?id=105916944"
+        ],
+        "center": [
+            "https://www.newsweek.com/american-holiday-spending-down-less-expected-2023-1855584"
+        ],
+        "right": [
+            "https://nypost.com/2023/12/26/business/us-retail-sales-rose-3-1-this-season-down-from-7-6-last-year/"
+        ]
+    }
+}

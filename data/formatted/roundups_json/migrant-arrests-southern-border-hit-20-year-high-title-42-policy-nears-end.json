@@ -1,0 +1,15 @@
+{
+    "headline": "Migrant Arrests Southern Border Hit 20 Year High Title 42 Policy Nears End",
+    "summary": "U.S. Customs and Border Protection arrested nearly 210,000 unauthorized\u00a0migrants at the southern border in March, the highest monthly total since 2000.According to acourt filingby the agency, Border Patrol encountered over 221,000 migrants at the border last month,\u00a0a 33% increase from a month earlier and the highest monthly total since President Biden took office.\u00a0The U.S. has made more than a million arrests at the U.S.-Mexico border since October, which is also the highest six-month total in at least 20 years. The surge comes as the Biden administrationplans to end the Title 42 policythat aims to\u00a0curtail the spread of COVID-19 in migrant detention facilities by allowing\u00a0border officials to expel migrants before they can claim asylum.\u00a0Of the 1.01 million crossings so far in 2021,just over halfresulted in the migrant being expelled under Title 42.The news was covered prominently by right-rated sources; few left-rated sources covered it. Reports from the right often highlighted\u00a0Republicans and some Senate Democrats who have called on the Biden administration to keep Title 42 in place in the absence of another plan. Some coverage from the right also focused on people in border towns and communities who raised concerns vandalism and property theft stemming from\u00a0the influx of migrants in the area.",
+    "story": {
+        "left": [
+            "https://www.cbsnews.com/news/immigration-march-migrant-arrivals-u-s-border-highest-since-2000/"
+        ],
+        "center": [
+            "https://www.newsnationnow.com/us-news/immigration/us-mexico-border-concerns-over-spike-in-migrant-crossings/"
+        ],
+        "right": [
+            "https://www.nationalreview.com/news/over-221000-migrant-encounters-reported-in-march-highest-since-biden-took-office/"
+        ]
+    }
+}

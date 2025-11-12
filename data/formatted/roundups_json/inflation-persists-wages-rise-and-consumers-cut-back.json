@@ -1,0 +1,15 @@
+{
+    "headline": "Inflation Persists Wages Rise And Consumers Cut Back",
+    "summary": "The U.S. economy remains hampered as prices continue to\u00a0rise and consumers spend less.Amid theworst consumer price inflation seen in nearly 40 years, the Commerce Department reported Friday that the Federal Reserve's primary measure of consumer pricesrose 5.8% last year, the sharpest increase since 1982.\u00a0The Labor Department also reported this week\u00a0that\u00a0employment costs\u00a0jumped by 4%\u00a0in 2021 compared to the year prior, the highest annual jump in 20 years. The Fed signaled Wednesday thatit will likely raise interest rates soon, potentially as early as March, in an effort to stave off inflation. Recent wage growth for U.S. workers has been countered by rising consumer costs; consumer spending fell 0.6% in December, the first decrease since February. A more positive revelation this week was thatU.S. gross domestic product (GDP) grew 5.7% in 2021, the biggest gain since 1984.Right-rated sources tend to cover inflation more prominently, and often focus more on how COVID-19\u00a0stimulus spending may have worsened it. Some reports from left-rated sources focused more on GDP and wage growth, framing them as positive long-term economic signs amid current woes. Inflation coverage across the spectrum\u00a0typically exudes pessimism\u00a0about how long high prices will last.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html"
+        ],
+        "center": [
+            "https://www.reuters.com/world/us/us-consumer-spending-falls-december-inflation-increases-2022-01-28/"
+        ],
+        "right": [
+            "https://www.theepochtimes.com/us-labor-costs-rose-in-2021-at-fastest-pace-in-20-years-adding-to-signs-of-sticky-inflation_4244313.html?utm_source=partner&utm_campaign=allsides"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Perspectives Bidens Approval Rating Falls",
+    "summary": "President Joe Biden's approval rating has dropped in recent weeks, according to multiple prominent opinion polls. AnNPR/PBS NewsHour/Marist poll\u00a0released last weeksays Biden's overall\u00a0approval rating is 43%, the lowest of his presidency so far and six\u00a0percentage points less than it was in July.An ABC News/Washington Post poll released this weeksays 51% of Americans disapprove of Biden's performance so far, compared to 44% who approve; in late June, 50% approved and 42% disapproved.According to FiveThirtyEight (Center bias), Biden's approval rating has fallen roughly 10 points since March.The president's declining approval rating was covered across the spectrum, and highlighted especially prominently by some right-rated outlets. Many reports, regardless of bias, framed the opinion poll data in the context of the Afghanistan withdrawal and continuing COVID-19 pandemic. Some left-rated voices predicted how Biden's falling popularity could impact Democrats' chances in next year's midterm elections. Some right-rated voices also focused on data about Biden's approval rating on the economy, and suggested that Americans are highly concerned about inflation and Biden's role in it.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/09/06/politics/white-house-joe-biden-crises-labor-day/index.html"
+        ],
+        "center": [
+            "https://thehill.com/homenews/senate/571190-bidens-muscle-questioned-amid-falling-polls"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/biden-poll-numbers-nosedive-afghanistan-exit-covid-surge"
+        ]
+    }
+}

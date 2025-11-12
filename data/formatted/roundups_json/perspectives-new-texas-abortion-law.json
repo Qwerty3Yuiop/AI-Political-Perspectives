@@ -1,0 +1,15 @@
+{
+    "headline": "Perspectives New Texas Abortion Law",
+    "summary": "Texas' new ban on most abortions, coupled with the Supreme Court's decision not to hear a challenge to the law, has revived sharp divisions on abortion among Americans. In\u00a0public opinion polls, abortion consistently ranks among America's most divisive issues. The new law bans abortion if a fetal heartbeat is detected, which usually takes place six weeks into a pregnancy. The law also bars state officials from enforcing it, and\u00a0instead authorizes private persons to bring civil action against people who perform or knowingly assist\u00a0the abortion process.News outlets and columnists across the spectrum have highlighted the ban this week. Left- and center-rated voices were often critical of the ban. Many raised concerns about victims of rape and incest not having abortion access; many also accused conservatives of hypocrisy for supporting personal choice on COVID-19 pandemic guidelines\u00a0but not abortion. Some libertarian voicesquestioned the ban's constitutionalityand its alignment with Supreme Court precedent. Right-rated voices often celebrated the ban, with some praising it for enacting\u00a0\"strong legislative protections for unborn children\"; some on the right\u00a0raised concerns thatthe ruling could hurt Republican chances in upcoming electionsdue to the general support among Americans for\u00a0keeping abortion legal.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/09/01/opinions/texas-abortion-law-contradictions-ghits/index.html"
+        ],
+        "center": [
+            "https://www.pewresearch.org/fact-tank/2021/05/06/about-six-in-ten-americans-say-abortion-should-be-legal-in-all-or-most-cases/"
+        ],
+        "right": [
+            "https://www.nationalreview.com/2021/09/supreme-court-gets-it-right-on-texas-abortion-law/"
+        ]
+    }
+}

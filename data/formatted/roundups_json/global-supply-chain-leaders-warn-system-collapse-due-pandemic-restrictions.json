@@ -1,0 +1,15 @@
+{
+    "headline": "Global Supply Chain Leaders Warn System Collapse Due Pandemic Restrictions",
+    "summary": "A coalition of international business leaders representing shipping\u00a0workers worldwide has\u00a0warned that supply chains\u00a0are at risk of a\u00a0\u201cglobal transport systems collapse\u201d\u00a0due to labor shortages caused by pandemic-related restrictions on trade. In a joint open letter sent to the heads of state attending the\u00a0United Nations General Assembly,the International Chamber of Shipping (ICS) and other industry groups called on world leadersto \"remove restrictions hampering the free movement of transport workers, and guarantee and facilitate their free and safe movement.\" Failure to act would likely\u00a0\"exacerbate shortages of essential goods including electronics, food, fuel and medical supplies ahead of Christmas.\" They also advised\u00a0WHO to establish\u00a0a \u201cglobally harmonized, digital\u201d vaccination certificate so that supply chain workers can cross international borders with ease.\u00a0According to a study from Oracle,about 91% of Americans are now taking the status of the supply chain into consideration when making a purchase\u2014 a significant increase from 45% before 2020. The study also found that more than half of Americans \"fear the supply-chain crisis will never end.\"Coverage was prominent across the spectrum. Some left-rated voices emphasized how \"the unequal distribution of vaccines globally\" contributed to the supply chain dilemma. Some right-rated voices noted thatthe rise in demand and diminishing supplies\u00a0will result in inflation, criticizing corporate America for becoming overreliant on\u00a0the global supply chain rather than producing products domestically.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html"
+        ],
+        "center": [
+            "https://www.ft.com/content/db887ea6-206b-41e8-9d52-68a6a8ce9b0d"
+        ],
+        "right": [
+            "https://nypost.com/2021/09/30/shipping-workers-warn-of-collapse-due-to-covid-19-trade-restrictions/"
+        ]
+    }
+}

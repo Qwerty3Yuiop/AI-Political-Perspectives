@@ -1,0 +1,14 @@
+{
+    "headline": "Study Examines Pfizers Covid 19 Vaccine Against Infection Hospitalization Over Time",
+    "summary": "Astudy published in the peer-reviewed medical journalThe LancetMonday says that Pfizer-BioNTech's COVID-19 vaccine loses effectiveness over time but remains strong in preventing severe COVID-19 cases. According to the study, which was funded by Pfizer, the vaccine's effectiveness against infection falls from 88% in the first month after inoculation to 47% after five months. However, the study says Pfizer's vaccine\u00a0remains 90% effective after six months in preventing hospitalization against all COVID-19 variants, including Delta.\u00a0Researchers\u00a0analyzed health records of more than 3.4 million people for the study. Last month, theCDC recommended Pfizer's\u00a0COVID-19 booster shotfor people ages 65 and older, and for adults at high risk of severe COVID-19.Many reports from left-rated outlets highlighted the fact that protection against hospitalization remains strong over time. Conversely, some reports from right-rated outlets highlighted the significant drop-off in the vaccine's effectiveness against infection.Right-rated website Project Veritaspublished videos Monday thatclaim to showa Pfizer scientist saying that \"antibodies are probably better than the vaccination\" for people who had COVID-19 previously.",
+    "story": {
+        "left": [
+            "https://abcnews.go.com/Health/pfizer-covid-19-vaccine-90-effective-preventing-hospitalization/story?id=80397149",
+            "https://www.cnbc.com/2021/10/04/pfizer-covid-vaccine-protection-against-infection-tumbles-to-47percent-study-confirms.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.theepochtimes.com/effectiveness-of-pfizer-biontech-covid-19-vaccine-falls-below-50-percent-after-5-months-study_4032448.html"
+        ]
+    }
+}

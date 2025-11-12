@@ -1,0 +1,15 @@
+{
+    "headline": "Supreme Court Says Arizona Voting Laws Are Legal",
+    "summary": "The Supreme Court said Thursday that Arizona laws banning ballot harvesting and out-of-precinct voting are legal and do not violate the Voting Rights Act of 1965 (VRA). Thevote was 6-3 along ideological lines; Justice Samuel Alito wrote the majority opinion, saying the requirements \"don't exceed the 'usual burdens of voting.'\"\u00a0Justice Elena Kagan wrote the dissent,\u00a0saying the Voting Rights Act \"should not be diminished by this Court.\" The decision reversed a\u00a09th Circuit Court of Appeals ruling that said Arizona's laws violate the VRA by resulting in racial discrimination. The debate over election integrity and voting rights remains a core political theme;\u00a0the Justice Departmentrecently sued Georgia over its voting laws, saying they restrict\u00a0the black vote.Coverage differed significantly between left- and right-rated sources. Coverage from the left\u00a0typically framed the laws as restrictive and discriminatory, and highlighted concerns about the ability of minorities to take up legal challenge against voting laws in the future. Reports from the right often framed the laws as justified and highlighted Alito's opinion on why the laws don't violate the VRA.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/07/01/politics/voting-rights-act-supreme-court-ruling/index.html"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/supreme-court-upholds-arizona-election-rules-11625148976"
+        ],
+        "right": [
+            "https://www.theepochtimes.com/arizona-ballot-harvesting-ban-is-legal-supreme-court-rules-in-high-stakes-electoral-integrity-case_3882838.html?utm_source=partner&utm_campaign=allsides"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "What Expect State Union Address",
+    "summary": "President Trump will give his State of the Union address tonight, in which he will call for unity and bipartisanship while facing a deeply divided audience.",
+    "story": {
+        "left": [
+            "https://www.theguardian.com/us-news/2019/feb/05/state-of-the-union-trump-to-call-for-unity-as-he-tries-to-reboot-presidency"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/trump-to-call-for-bipartisanship-as-he-threatens-to-declare-emergency-11549320230?mod=hp_lead_pos1"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/trump-state-of-the-union-to-condemn-resistance-and-retribution-politics"
+        ]
+    }
+}

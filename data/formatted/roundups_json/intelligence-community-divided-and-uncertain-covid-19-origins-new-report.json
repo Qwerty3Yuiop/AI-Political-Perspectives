@@ -1,0 +1,15 @@
+{
+    "headline": "Intelligence Community Divided And Uncertain Covid 19 Origins New Report",
+    "summary": "US intelligence agencies reached varied and relatively uncertain conclusions on the origins of the COVID-19 pandemic, according to anunclassified two-page reportreleased Friday. Four unnamed intelligence agencies and the National Intelligence Council assessed with low confidence that the virus most likely originated naturally, one agency assessed with moderate confidence that the virus most likely came from a \u201claboratory-associated incident,\u201d and three agencies said they were unable to come to a conclusion without additional information. All agencies agreed that both origin theories were \u201cplausible,\u201d that the virus was not a biological weapon, and that Chinese officials did not have foreknowledge of the virus before the first outbreak. Both the report and astatementfrom President Joe Biden criticized China for withholding information and called on China to cooperate with investigators. Biden had requested the intelligence community\u2019s investigationin May.While many outlets coveredleaks of the report\u2019s conclusionsas early as Aug. 24, outlets across the spectrum covered the report\u2019s release on Friday. Some coverage in left-rated outlets highlighted China\u2019s lack of foreknowledge of the virus. Some coverage in right-rated outlets focused on the lab leak theory.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/08/27/politics/us-intelligence-covid-origins-report/index.html"
+        ],
+        "center": [
+            "https://www.reuters.com/world/us-intelligence-community-still-divided-covid-19s-origin-summary-2021-08-27/"
+        ],
+        "right": [
+            "https://www.nationalreview.com/news/intel-agencies-split-over-covid-19-origin-in-long-awaited-report/"
+        ]
+    }
+}

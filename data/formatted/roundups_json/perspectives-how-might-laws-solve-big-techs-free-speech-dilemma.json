@@ -1,0 +1,15 @@
+{
+    "headline": "Perspectives How Might Laws Solve Big Techs Free Speech Dilemma",
+    "summary": "The question of how major technology companies like Google, Amazon, Twitter, Facebook and Instagram\u00a0gate-keep\u00a0speech and information on their internet platforms is a divisive one, especially in the context of the First Amendment. People across the spectrum often disagree on what freedom of speech entails, and that debate has evolved into arguments about how free speech is\u00a0encouraged or moderated online.Section 230 of the Communications Decency Actcurrently protects internet\u00a0companies\u00a0from potential legal liabilities stemming from third-party content published on their platforms. Some of these companies have recently taken steps to flag and censor purported falsehoods regarding the 2020 election and COVID-19 pandemic, but have at timesunjustly censored valid points in the process.Many left- and right-rated voices agree that new laws need to be passed to solve Big Tech's First Amendment issue \u2014 but they disagree starkly on what those laws would do. Right-rated voices have called for restrictions on what content\u00a0tech companies can censor; some also say tech companies should have their Section 230 protections stripped if they choose to become arbiters of truth. Many left-rated voices have instead advocated government regulations requiring tech companies to eliminate misinformation and disinformation on their platforms by moderating content more closely and deplatforming\u00a0offenders.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/01/26/magazine/free-speech-tech.html"
+        ],
+        "center": [
+            "https://www.allsides.com/topics/free-speech?search=free%20speech"
+        ],
+        "right": [
+            "https://www.wsj.com/articles/big-tech-twitter-facebook-google-youtube-sec-230-common-carrier-11627656722"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "headline": "Covid 19 Cases Fall Us And Across World",
+    "summary": "New COVID-19 infections dropped by 25% in the U.S. over the past two weeks, as the latest coronavirus wave has likely peaked in most states. The World Health Organization (WHO) reported a 10% drop in global COVID-19 cases last week, and said cases in the U.S. fell roughly 31%. As of Tuesday,\u00a0theseven-day average of new cases in the U.S. was 107,625, down from over 160,000 at the beginning of September. Meanwhile, deaths continue to rise following the summer Delta variant surge, and\u00a0are up 4% in the past two weeks. Some states, particularly in the Northwest, continue to face crowded hospitals and staffing shortages.The news was covered across the spectrum, but not nearly as prominently as coverage of the Biden administration's spending bills and potential government shutdown. Some reports from left-rated sources urged continued caution ahead of the winter months, when viruses traditionally spread; others highlighted howCOVID-19 remains a bigger problem in rural areas than urban ones. Some coverage from right-rated outlets mentioned the nationwide decline alongsidean unexpected rise in jobless claimslast week.",
+    "story": {
+        "left": [
+            "https://www.axios.com/covid-cases-infections-down-a8fef1a4-5215-4a91-9bdc-1874724e5698.html",
+            "https://www.bloomberg.com/news/articles/2021-09-29/u-s-covid-recovery-spreads-as-prospects-improve-in-47-states"
+        ],
+        "center": [],
+        "right": [
+            "https://www.theepochtimes.com/who-reports-decline-in-covid-19-cases-deaths-across-the-world_4023076.html?utm_source=partner&utm_campaign=allsides"
+        ]
+    }
+}

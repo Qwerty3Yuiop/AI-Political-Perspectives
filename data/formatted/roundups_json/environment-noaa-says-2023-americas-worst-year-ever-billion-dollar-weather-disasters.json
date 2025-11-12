@@ -1,0 +1,15 @@
+{
+    "headline": "Environment Noaa Says 2023 Americas Worst Year Ever Billion Dollar Weather Disasters",
+    "summary": "The U.S. has had more costly weather-related disasters in 2023 than any other year on record, according to the National Oceanographic and Atmospheric Administration (NOAA).The Details:An NOAA report released Mondaysaysthere have been 23 weather disasters this year with losses over $1 billion. This includes 18 storms, two flooding events, one tropical cyclone, one winter storm, and the Hawaii wildfires.Key Quotes:\"For this year-to-date period, the first eight months of 2023 rank highest for disaster count, ahead of 2020 with 16 disasters. The total cost of these events exceeds $57.6 billion, and they have resulted in 253 direct and indirect fatalities,\" the report states.How the Media Covered it:Left- and center-rated sources covered the news prominently; few right-rated sources covered it at all. Some suggested the report is evidence that more needs to be done to combat climate change; the report itself doesn't mention climate change directly.Axios (Lean Left bias)reported that the rise in costly weather disasters \"likely reflects both trends in extreme weather events and population growth, including in vulnerable areas with certain hazards \u2014 such as coastal and other low-lying areas,\" the latter of which is \"thought to be more significant to date.\"",
+    "story": {
+        "left": [
+            "https://www.axios.com/2023/09/12/disasters-weather-climate-record-2023-noaa"
+        ],
+        "center": [
+            "https://www.forbes.com/sites/roberthart/2023/09/12/2023-worst-year-on-record-for-billion-dollar-climate-disasters-noaa-says/?sh=3083c1d642f2"
+        ],
+        "right": [
+            "https://www.dailymail.co.uk/news/article-12507343/America-storm-damage-record-setting-climate.html"
+        ]
+    }
+}

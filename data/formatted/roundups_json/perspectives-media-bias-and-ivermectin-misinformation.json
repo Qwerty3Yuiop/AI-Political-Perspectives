@@ -1,0 +1,15 @@
+{
+    "headline": "Perspectives Media Bias And Ivermectin Misinformation",
+    "summary": "A viral story about Oklahoma hospitals overflowing with people who'd overdosed on horse dewormerturned out to be misleading, but not until several major news sources had elevated the misinformation.\u00a0The claim that emergency rooms were backed up with overdosing patients,which originally came from a rural Oklahoma doctor, has since been disputed by one Oklahoma\u00a0hospital\u00a0and has not been confirmed or supported by any other source.Rolling Stone (Left bias),MSNBC (Left),The Guardian (Lean Left)andNewsweek\u00a0(Center)were among the major mainstream outlets to report the misleading story, with Rolling Stone adding a lengthy update at the top of its original article.Voices across the spectrum, particularly on the right but also elsewhere, criticized mainstream media's handling of the story and of COVID-19 stories in general. Some voices speculated that because the source's account likely confirmed journalists' preconceived notions about rural Americans' attitudes toward\u00a0COVID-19, they didn't spend as much time vetting the claims.",
+    "story": {
+        "left": [
+            "https://newrepublic.com/article/163573/media-ivermectin-rachel-maddow-pandemic"
+        ],
+        "center": [
+            "https://www.cjr.org/the_media_today/how-a-story-about-ivermectin-and-hospital-beds-went-wrong.php"
+        ],
+        "right": [
+            "https://www.nationalreview.com/corner/whatever-happened-to-the-journalistic-b-s-detector/"
+        ]
+    }
+}

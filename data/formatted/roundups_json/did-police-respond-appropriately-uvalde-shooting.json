@@ -1,0 +1,15 @@
+{
+    "headline": "Did Police Respond Appropriately Uvalde Shooting",
+    "summary": "As the nation grappled with the Uvalde elementary school shooting, some began scrutinizing how law enforcement officers responded to the violence.The exact timeline was still somewhat unclear on Thursday, with theAssociated Press (Center bias)calling the events \u201cmurky\u201d and pointing to \u201ccontradictory accounts\u201d by police. On Tuesday, a Texas Department of Public Safety official toldCNN (Left bias)that law enforcement had exchanged fire with the shooter before he began targeting children; another Texas DPS official said the shooter was killed 40 minutes to an hour after police first encountered him. That official also said police \u201cdid contain him in a classroom\u201d \u2014a classroom full of students.In a video posted online, frustrated families outside Robb Elementary School urged a group of police officers to enter the building as the shooting took place; some even suggested attempting to stop the shooter themselves. The Border Patrol agents who eventually killed the shooter reportedly considered it a \u201csuicide\u201d mission to attack his barricaded position; at least one\u00a0agent\u00a0wasinjuredin the assault, but none died.Coverage was widespread and prominent from outlets across the political spectrum on Thursday, particularly regarding the video of families gathered outside the school, and many framed the police response in a questionable light. Some coverage reflected polarized attitudes towards police; aVice (Left bias)headline said the police timeline had \u201ca lot of holes,\u201d and aWashington Examiner (Lean Right bias)article praised a \u201chero\u201d Border Patrol agent.",
+    "story": {
+        "left": [
+            "https://www.texastribune.org/2022/05/26/uvalde-school-shooting-police-response/"
+        ],
+        "center": [
+            "https://www.newsweek.com/officers-engaged-gunman-before-mass-shooting-1709870"
+        ],
+        "right": [
+            "https://nypost.com/2022/05/25/police-waited-to-enter-texas-school-as-shooter-went-on-killing-spree/"
+        ]
+    }
+}

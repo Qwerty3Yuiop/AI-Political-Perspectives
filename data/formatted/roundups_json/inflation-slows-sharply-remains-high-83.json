@@ -1,0 +1,15 @@
+{
+    "headline": "Inflation Slows Sharply Remains High 83",
+    "summary": "Inflation slowed down in April but remained high, according to the Labor Department\u2019smonthly CPI report.Consumer prices rose 0.3% in April, a sharp deceleration fromMarch\u2019s 1.2% increase. Annual inflation also slowed to 8.3%, down from March's 8.5% but higher than\u00a0analysts'\u00a0expected 8.1%.Core inflation, which excludes volatile food and energy prices, rose 0.6% in April, suggesting inflation was broad-based. Energy prices declined 2.7% in April for the first time in months, althoughaverage gas prices reached record highsin early May. Other sectors with price drops included apparel andused vehicles.Housing,food, airline fares\u00a0and new vehicles were the largest contributors to price growth.Coverage across the spectrum conveyed more nuance than in previous months, portraying inflation as high but slowing down.\u00a0Headlines in major right-rated outlets \u2014 and some left and center-rated outlets \u2014 said inflation \u201csoared,\u201d \u201csurged\u201d and \u201cbarreled ahead.\u201d Meanwhile, left-rated outlets were more likely to focus on areas where inflation slowed down.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2022/05/11/business/consumer-price-inflation-april/index.html"
+        ],
+        "center": [
+            "https://www.reuters.com/world/us/us-consumer-prices-slow-april-inflation-still-high-2022-05-11/"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/economy/april-2022-consumer-price-index-inflation"
+        ]
+    }
+}

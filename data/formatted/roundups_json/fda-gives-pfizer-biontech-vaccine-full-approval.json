@@ -1,0 +1,15 @@
+{
+    "headline": "Fda Gives Pfizer Biontech Vaccine Full Approval",
+    "summary": "The Food and Drug Administrationgranted full approval to the Pfizer-BioNTech COVID-19 vaccineMonday for people 16 and older. It's the first COVID-19 vaccine to be upgraded from emergency use authorization to full approval; it was first approved for emergency use eight months ago.\u00a0\u201cWhile millions of people have already safely received COVID-19 vaccines, we recognize that for some, the FDA approval of a vaccine may now instill additional confidence to get vaccinated,\"\u00a0said Acting FDA Commissioner Janet Woodcock as part of Monday's announcement.There were few notable differences in initial coverage from left- and right-rated news sources. Reports from across the spectrum focused on how the approval may lead to vaccine mandates for service members, federal employees and college students, as well as how it may encourage skeptics to get the vaccine.",
+    "story": {
+        "left": [
+            "https://www.usatoday.com/story/news/health/2021/08/23/pfizer-covid-vaccine-fda-full-approval/5543473001/"
+        ],
+        "center": [
+            "https://www.statnews.com/2021/08/23/fda-grants-full-approval-to-covid-19-vaccine-developed-by-pfizer-biontech/"
+        ],
+        "right": [
+            "https://dailycaller.com/2021/08/23/fda-pfizer-biontech-covid-vaccine-full-approval/"
+        ]
+    }
+}

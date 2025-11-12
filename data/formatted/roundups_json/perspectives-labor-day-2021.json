@@ -1,0 +1,15 @@
+{
+    "headline": "Perspectives Labor Day 2021",
+    "summary": "In addition to marking the summer season's unofficial end, the Labor Day holiday is a day to recognize the U.S. worker's role in keeping the country moving. For media outlets, columnists and pundits, the holiday has different meanings and elicits varying points of view from left and right, especially on the subject of unions.Data from Pew Research Center (Center bias)suggests that as of July 2021, 74% of Democrats and Democrat-leaners say labor unions have a positive effect; just 34% of Republicans and Republican-leaners agree.Opinions about Labor Day were more common from left- and center-rated writers and news outlets. Many of these praised frontline workers during the COVID-19 pandemic andadvocated for the importance\u00a0of unionsand organized labor movements. Some opinions from right-rated outlets criticized unions and their advocates' purported attempts to make Labor Day less about workers and more about unions; these opinions also pointed to data that suggests U.S. union participation is declining. Coverage across the spectrum highlighted the fact thatpandemic jobless benefits expire for over 7 million peopleMonday.",
+    "story": {
+        "left": [
+            "https://www.washingtonpost.com/opinions/2021/09/05/this-labor-day-lets-honor-workers-who-have-been-front-lines-pandemic/"
+        ],
+        "center": [
+            "https://www.cnet.com/how-to/its-labor-day-weekend-heres-the-curious-truth-about-the-holidays-origins/"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/opinion/op-eds/workers-deserve-a-day-in-their-honor-the-unions-that-exploit-them-dont"
+        ]
+    }
+}

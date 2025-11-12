@@ -1,0 +1,15 @@
+{
+    "headline": "Banking And Finance Doj Sec Launch Investigations Silicon Valley Bank Collapse",
+    "summary": "The Department of Justice and the Securities and Exchange Commission are both opening investigations into thecollapse of Silicon Valley Bank.Details:SEC chair Gary Gensler issued a statement Sunday stating, \u201cwithout speaking to any individual entity or person, we will investigate and bring enforcement actions if we find violations of the federal securities laws.\u201d Both investigations are in the initial stages, and the focus of the probes is not yet clear. Outlets across the spectrum are speculating the focus could include stock trades made by Silicon Valley Bank executives in the weeks leading up to the collapse.For Context:Last week, the FDIC took control of Silicon Valley Bank, a popular lender for tech startups, after customers tried to withdraw $42 billion on Thursday. The bank run was sparked by an announcement from the Silicon Valley Bank that it planned to sell additional stock in order to make up a deficit stemming from a decrease in the value of government bonds. The collapse led to fear across the banking sector,leading President Biden to address the issue Monday, where he offered assurances that the banking system was stable. Treasury Secretary Janet Yellen signaled Silicon Valley Bankwould not be bailed out by the federal government, stating the focus was on insuring depositors.How The Media Covered It:Outlets across the spectrum covered the story mildly and consistently, often highlighting speculation on the potential focus on the agencies\u2019 probes.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2023/03/14/business/silicon-valley-bank-investigation.html"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/justice-department-sec-investigating-silicon-valley-banks-collapse-c192c2b2"
+        ],
+        "right": [
+            "https://www.washingtontimes.com/news/2023/mar/14/justice-department-sec-investigating-failure-silic/"
+        ]
+    }
+}

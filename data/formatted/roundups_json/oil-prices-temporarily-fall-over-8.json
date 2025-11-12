@@ -1,0 +1,14 @@
+{
+    "headline": "Oil Prices Temporarily Fall Over 8",
+    "summary": "Crude oil pricestemporarily fell below $100 per barrel on Monday, down from a peak ofover $130 per barrelearlier this month.Prior to Mar. 1, when oil prices were last below $100 per barrel, prices had risen steadily from about $70 per barrel in Nov. 2021. Analysts in some outlets predicted that \u201cAmericanscould start to see some reliefat thegas pump\u201d due to falling oil prices. On Sunday, polls fromCBS News/YouGovandABC News/Ipsosshowed that most Americans supportedbanning Russian oileven if it made gas prices rise.While left and center-rated outlets were more likely to cover falling oil prices on Monday, outlets across the spectrum covered topics related to gas prices. Coverage was mostly balanced across the spectrum; while theNew York Times (Lean Left bias)suggested financial market volatility waseasing,Fox Business (Lean Right)suggested volatility remained high. Several outlets covered gas prices\u2019 impact on rideshare and food delivery apps, includingdrivers\u2019 smaller incomesandLyft\u2019s temporary surcharge fees.Some left-rated outlets covered the impact onworkers returning to officesafter working from home.",
+    "story": {
+        "left": [
+            "https://www.cnbc.com/2022/03/14/us-oil-tumbles-more-than-8percent-dips-below-100-per-barrel.html",
+            "https://www.cnn.com/2022/03/14/energy/oil-prices/index.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxbusiness.com/markets/stocks-3-14-22"
+        ]
+    }
+}

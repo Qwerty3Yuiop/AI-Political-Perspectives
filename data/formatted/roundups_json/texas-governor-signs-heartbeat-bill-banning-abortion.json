@@ -1,0 +1,14 @@
+{
+    "headline": "Texas Governor Signs Heartbeat Bill Banning Abortion",
+    "summary": "Texas Governor Greg Abbott signed a bill Wednesday banning abortions after the detection of a fetal heartbeat. The bill, passed by both chambers of the Republican-majority Texas legislature, prohibits abortion at six weeks of pregnancy without making an exception for rape or incest, though it does make an exception for medical emergencies. While approximately a dozen states have passed similar \"heartbeat\" bills, the Texas version absolves the state from enforcing the law and instead includes a provision that allows citizens to sue anyone they believe to be involved in helping a pregnant individual violate the ban. While the provision cannot be used against pregnant people, reproductive rights advocates warn it can be used against abortion providers and reproductive rights activists. The bill is expected to take effect in September. This comes after theSupreme Court announced Monday it would review a major abortion disputethat could roll back abortion protections under Roe v. Wade. Coverage across the political spectrum tended to focus on the details of the bill. Some coverage from the center and left tended to frame the ban as \"extreme\" and highlight that at six weeks, Texas' bill has the earliest threshold for the ban, as many people are not aware they are pregnant by then. Coverage from right-rated outlets tended to highlight Abbott's remarks and the provision for private lawsuits.",
+    "story": {
+        "left": [
+            "https://www.theguardian.com/us-news/2021/may/19/texas-abortion-ban-law-greg-abbott",
+            "https://www.npr.org/2021/05/19/998237349/the-governor-of-texas-has-signed-a-law-that-bans-abortion-as-early-as-6-weeks"
+        ],
+        "center": [],
+        "right": [
+            "https://www.nationalreview.com/news/texas-governor-signs-first-of-its-kind-fetal-heartbeat-law-that-leaves-enforcement-to-private-citizens/"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "headline": "Economy And Jobs Inflation Speeds January Slows Down Annual Basis",
+    "summary": "The year-over-year inflation rate was 3.1% in January, down from 3.4% in December,the Bureau of Labor Statistics reported.The Details:Prices rose at a monthly rate of\u00a00.3% in January, an acceleration from December\u2019s 0.2% rate. Core inflation, a measure excluding volatile food and energy costs, rose 0.4% in January compared to 0.3% in December.How the Media Covered It:Depending on whether one looks at the monthly or annual number, the inflation data could be viewed as an increase or a decrease, allowing headlines to paint different pictures. WhileFox Business (Lean Right bias)used a different photo with its article, it featured the story on its homepage with a photo of a burning wallet. Some left-rated sources such asCNN Business (Lean Left bias)focused their headlines on how the annual rate fell.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2024/02/13/economy/cpi-consumer-price-index-inflation-january/index.html",
+            "https://www.cnbc.com/2024/02/13/cpi-inflation-january-2024-consumer-prices-rose-0point3percent-in-january-more-than-expected-as-the-annual-rate-moved-to-3point1percent.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxbusiness.com/economy/cpi-inflation-january-2024"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "headline": "Technology Mit Study Creates Debate Ai S Impact Cognition",
+    "summary": "A newstudyfrom MIT\u2019s Media Lab suggests that the use of AI language models may have a detrimental effect on learning and critical thinking abilities, especially for younger users.\u00a0It has sparked debate across the political spectrum.The Details:The study, which has not been peer reviewed, divided 54 participants aged 18-39 into three groups to write several SAT essays using OpenAI\u2019s ChatGPT, Google\u2019s search engine, and nothing at all. Brain activity was recorded using an EEG, revealing that the ChatGPT group had the lowest brain engagement and performance levels. Participants using ChatGPT also became more reliant on the tool over time. The study has not been peer-reviewed and has drawn criticism for its small sample size.Increased Cognitive Laziness:David Brooks (Lean Right bias)argued that while AI offers efficiency, it may discourage critical thinking and long-term intellectual growth. He wrote, \u201cNeurons that fire together wire together. Using a bot to think for you\u2026is empty calories for the mind. You\u2019re robbing yourself of an education and diminishing your intellectual potential.\u201d\u2018Too Soon to Tell\u2019:An analysis published byAxios (Lean Left)framed the study as part of a broader, still-unfolding debate about AI's impact on human thinking. It noted society\u2019s recurring pattern of embracing new technology before fully understanding its consequences.Fostering Loneliness and Reliance:Time (Lean Left)highlighted reports ofincreased lonelinessand lack of originality in writing produced by ChatGPT, quoting two English teachers who called student work \u201clargely soulless.\u201d It also noted that social media users ironically used AI to summarize the MIT study, triggering \u201cAI traps\u201d embedded by researchers, reiterating the increased reliance on AI.Written by the AllSides staff (of humans).Learn more.Support our mission.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2025/07/03/opinion/aritificial-intelligence-education.html",
+            "https://www.axios.com/2025/07/02/chatgpt-brain-mit-study-dumber",
+            "https://time.com/7295195/ai-chatgpt-google-learning-school/"
+        ],
+        "center": [],
+        "right": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "headline": "Omicron Covid 19 Surge Starting Peak",
+    "summary": "As the number of new COVID-19 cases begins to recede from the record highs of recent weeks, a major question is whether the surge driven by the\u00a0Omicron variant is starting to subside.The Centers for Disease Control and Preventionreported roughly 874,000 new COVID-19 cases on Friday, down considerably from the 1.34 million new cases reported several days before on Jan. 10. U.S. Surgeon General Vivek Murthy said Sunday that some regions such as the Northeast are \"starting to see a plateau, and in some cases, an early decline\" in cases, but also said\u00a0that because different areas are seeing different trends, Americans \"shouldn\u2019t expect a national peak\" in the near future and that the coming weeks \"will be tough.\"Local news media fromCaliforniatoTexastoFloridaare predicting an Omicron peak soon. In recent weeks, nationalleft-ratedandright-ratedsources have highlighted data suggesting that Omicron is peaking in some parts of the U.S., but differences in coverage persist. Coverage from many left-rated outlets highlighted Murthy's comments, and focused onovercrowded hospitals suffering from staff shortages. Reports from right-rated sources often focused on the declining case numbers andNew York's falling COVID-19 hospitalization tally. WriterJim Geraghty (Lean Right bias)blamed Omicron's continued prevalence on the Biden administration'sslow rollout of free COVID-19 tests.",
+    "story": {
+        "left": [
+            "https://www.usatoday.com/story/news/health/2022/01/16/djokovic-australia-appeal-covid-updates/6548256001/",
+            "https://www.cnbc.com/2022/01/17/omicron-wave-shows-early-signs-of-easing-in-states-hit-early.html"
+        ],
+        "center": [],
+        "right": [
+            "https://nypost.com/2022/01/18/covid-cases-in-the-us-drop-47-percent-in-a-week-data/"
+        ]
+    }
+}

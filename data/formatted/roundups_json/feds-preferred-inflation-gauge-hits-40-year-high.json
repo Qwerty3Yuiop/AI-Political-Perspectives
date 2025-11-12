@@ -1,0 +1,15 @@
+{
+    "headline": "Feds Preferred Inflation Gauge Hits 40 Year High",
+    "summary": "ThePersonal Consumption Expenditures (PCE) indexrose\u00a0by 6.8% in the year through June,the fastest rate\u00a0since 1982.The PCEmeasures\u00a0the prices that people in the United States pay for goods and services, and is the Federal Reserve's preferred gauge for price inflation.\u00a0Core prices, which exclude the more volatile measurements of food and energy, rose 0.6% from the previous month and 4.8% on an annual basis, according to the Commerce Department. Both numbers were higher than economists predicted.Aseparate reportreleased Friday by the Labor Department showed thatemployers spent 5.1% more on compensating workersin the second quarter of 2022 compared with the same period a year earlier, which marked the fastest annual pace on records back to 2001.Left- and center-rated sources oftenhighlighted the wage growthmore prominently than right-rated sources did, which instead tended tofocus primarily on high inflation. AWall Street Journal (Center bias)report said the wage increases are \"keeping pressure on historically high inflation.\" A New York Times report said Friday's numbers are \"likely to keep the central bank on track for futurerate increases.\" A Fox Business report said the compensation growth was \"another troubling indication that inflation is broadening throughout the economy.\"",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2022/07/29/business/economy/fed-inflation-wage-growth.html"
+        ],
+        "center": [
+            "https://www.marketwatch.com/story/coming-up-pce-inflation-and-consumer-spending-11659096833"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/economy/feds-preferred-inflation-gauge-climbs-june-holding-near-40-year-high"
+        ]
+    }
+}

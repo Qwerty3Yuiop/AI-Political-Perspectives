@@ -1,0 +1,15 @@
+{
+    "headline": "Supreme Court Supreme Court Hears Arguments Case Challenging Election Authority",
+    "summary": "The Supreme Court heard arguments on Wednesday for a case challenging which branches of state government have regulatory authority over elections.For Context:North Carolina Republican legislature constructed a new electoral district map that the North Carolina Supreme Court struck down, believing it to be gerrymandered and biased against democratic voters. The legislators are challenging this decision before the United States Supreme Court. Outlets across the spectrum are highlighting the constitutional theory behind the challenge, the \u201cindependent state legislature\u201d doctrine, which argues the Constitution grants legislatures, not courts, the authority to determine electoral maps and regulate federal elections.What the Constitution Says:The theory stems from an interpretation of Article I, Section 4 of the United States Constitution, which states that \u201cThe Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.\u201dHow the Media Covered It:Reuters stated that the court\u2019s conservative justices \u201cappeared willing\u201d to embrace independent state legislature theory, but had reservations regarding parts of the Republican legislators\u2019 argument. CBS News attributed the resurgence of the theory to false claims of electoral fraud made by former President Donald Trump during the 2020 election. The New York Post characterized some justices as appearing \u201cskeptical\u201d of granting \u201cunchecked power\u201d to state legislatures. Fear of increased partisan gerrymandering is a common point in coverage across the spectrum.",
+    "story": {
+        "left": [
+            "https://www.cbsnews.com/live-updates/supreme-court-moore-v-harper-elections-case-independent-state-legislature-theory/"
+        ],
+        "center": [
+            "https://www.reuters.com/legal/republicans-target-judicial-scrutiny-elections-us-supreme-court-2022-12-07/"
+        ],
+        "right": [
+            "https://nypost.com/2022/12/07/supreme-court-debates-who-has-authority-over-elections/"
+        ]
+    }
+}

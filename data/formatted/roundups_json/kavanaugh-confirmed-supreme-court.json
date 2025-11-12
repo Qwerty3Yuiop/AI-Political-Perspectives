@@ -1,0 +1,14 @@
+{
+    "headline": "Kavanaugh Confirmed Supreme Court",
+    "summary": "The U.S. Senate voted 50-48 to confirm Brett Kavanaugh to the Supreme Court, ending a very contentious battle and likely shifting the court to the right.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2018/10/06/us/politics/brett-kavanaugh-supreme-court.html",
+            "https://www.usatoday.com/story/news/politics/2018/10/06/brett-kavanaugh-senate-confirmation-final-vote-supreme-court/1538964002/"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxnews.com/politics/kavanaugh-confirmed-to-supreme-court-after-bitter-fight-securing-rightward-shift"
+        ]
+    }
+}

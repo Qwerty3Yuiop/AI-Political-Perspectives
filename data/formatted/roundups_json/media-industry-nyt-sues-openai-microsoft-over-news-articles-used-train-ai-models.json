@@ -1,0 +1,15 @@
+{
+    "headline": "Media Industry Nyt Sues Openai Microsoft Over News Articles Used Train Ai Models",
+    "summary": "TheNew York Times (Lean Left bias)filed a lawsuit against OpenAI and Microsoft.For Context:OpenAI is the creator of ChatGPT, the massively popular artificial intelligence chatbot that kicked off the recent economic and cultural fervor surrounding machine learning tools. Microsoft is an investor in OpenAI and has its own AI program named Copilot. These companies train artificial intelligence programs by feeding them massive amounts of content and information gathered by \u201cscraping\u201d the internet. This training process has raised copyright concerns from authors, entertainers, and now news publishers. OpenAI has previously defended the scraping process as protected under the fair use doctrine, which determines copyrighted material may be used as long as it is adequately transformed.Details:Thenewspaper\u2019s lawsuit allegedthat OpenAI and Microsoft trained their AI programs by \u201ccopying and using millions of The Times\u2019s copyrighted news articles, in-depth investigations, opinion pieces, reviews, how-to guides, and more,\u201d accusing the companies of seeking to \u201cfree-ride on The Times\u2019s massive investment in its journalism by using it to build substitutive products without permission or payment.\u201dKey Quotes:A statement from OpenAI published in outlets across the spectrum said the company is \u201cdisappointed with this development,\u201d adding that OpenAI respects the \u201crights of content creators and owners and are committed to working with them to ensure they benefit from AI technology and new revenue models.\u201dHow the Media Covered It:The lawsuit was covered more frequently in left-rated outlets. Outlets noted the various expected legal battles as AI grows.",
+    "story": {
+        "left": [
+            "https://www.theguardian.com/media/2023/dec/27/new-york-times-openai-microsoft-lawsuit"
+        ],
+        "center": [
+            "https://www.reuters.com/legal/transactional/ny-times-sues-openai-microsoft-infringing-copyrighted-work-2023-12-27/"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/technology/microsoft-openai-sued-by-new-york-times-over-copyright-infringement"
+        ]
+    }
+}

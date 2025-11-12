@@ -1,0 +1,15 @@
+{
+    "headline": "Boston Hospital Patient Removed Heart Transplant List Being Unvaccinated",
+    "summary": "A 31-year-old man was removed from the heart transplant list at a Boston hospital because he won't\u00a0get the COVID-19 vaccine.The man was reportedly\u00a0on the priority list to receive the transplant at Brigham and Women\u2019s Hospital, but is no longer eligible due to his opposition to getting\u00a0the vaccine. The hospital says the vaccine mandate is meant \"to create both the best chance for a successful operation and also the patient\u2019s survival after transplantation.\" The man's father says getting the vaccine is \"kind of against his basic principles.\"Right-rated outlets covered the news more prominently. Some reports from left- and center-rated sources highlighted comments from doctors who recommended that the man receive the vaccine.",
+    "story": {
+        "left": [
+            "https://www.theguardian.com/us-news/2022/jan/25/heart-transplant-patient-refusing-covid-19-vaccine"
+        ],
+        "center": [
+            "https://www.newsweek.com/unvaccinated-man-taken-off-transplant-list-reignites-patient-debate-1672783"
+        ],
+        "right": [
+            "https://nypost.com/2022/01/25/patient-refused-heart-transplant-because-he-is-unvaccinated/"
+        ]
+    }
+}

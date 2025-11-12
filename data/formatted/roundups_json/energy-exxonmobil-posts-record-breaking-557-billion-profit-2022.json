@@ -1,0 +1,15 @@
+{
+    "headline": "Energy Exxonmobil Posts Record Breaking 557 Billion Profit 2022",
+    "summary": "ExxonMobil posted a $55.7 billion profit in 2022, a record-breaking number for the energy giant.For Context:In 2021, Exxon recorded a $15.6 billion profit. In 2020, when demand cratered as a result of the COVID-19 pandemic, Exxon lost money for the first time in decades, according to Fortune. Exxon\u2019s record setting year is being widely attributed to two factors\u2014 geopolitical turmoil stemming from Russia\u2019s ongoing invasion of Ukraine and the continued recovery from the pandemic.Key Quotes:Exxon CEO Darren Woods stated that \u201cwhile our results clearly benefited from a favorable market, the counter-cyclical investments we made before and during the pandemic provided the energy and products people needed as economies began recovering and supplies became tight.\u201d A statement from White House spokesperson Abdullah Hasan criticized oil companies, stating that \u201coil companies have everything they need, including record profits and thousands of unused but approved permits, to increase production, but they\u2019re instead choosing to plow those profits into padding the pockets of executives and shareholders.\u201dHow The Media Covered It:Left- and Center-rated outlets were more likely to highlight the past year\u2019s high fuel prices when noting the profits, and emphasized the connection between the Ukraine war and Exxon\u2019s profits. Right-rated outlets covered the story less, despite covering gas prices extensively prior to the 2022 midterm elections, and were more likely to focus on the White House\u2019s criticism of the profits and Exxon\u2019s response.",
+    "story": {
+        "left": [
+            "https://apnews.com/article/russia-ukraine-exxon-mobil-corp-business-0de95b8421a658f020717a148a63c9c5"
+        ],
+        "center": [
+            "https://fortune.com/2023/01/31/exxon-mobil-record-profit-2022-ukraine-war-high-gas-prices/"
+        ],
+        "right": [
+            "https://dailycaller.com/2023/01/31/exxon-mobile-ceo-darren-woods-biden-administration-facts-straight/"
+        ]
+    }
+}

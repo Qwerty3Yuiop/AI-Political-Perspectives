@@ -1,0 +1,14 @@
+{
+    "headline": "Un Issues Report Human Caused Climate Change",
+    "summary": "On Monday, the United Nations'\u00a0Intergovernmental Panel on Climate Changeissued\u00a0a reporton the dangers of human-caused climate change, saying the Earth will cross a critical temperature threshold as early as 2030. The report, prepared by hundreds of scientists, says climate change is intensifying worldwide due to human influence that \"has warmed the atmosphere, ocean and land\"; it also calls\u00a0climate change a \"code red for humanity,\" and references\u00a0continued sea-level rise and extreme weather events such as hurricanes and heat waves.\u00a0Carbon dioxide (CO2) is cited as the main driver of climate change, while air pollutants and other greenhouse gases are highlighted as contributing factors.The report was a top story on many left- and center-rated news websites Monday morning. It was covered less prominently by right-rated sources.",
+    "story": {
+        "left": [
+            "https://www.nbcnews.com/science/environment/un-releases-blistering-assessment-state-climate-change-rcna1622",
+            "https://www.axios.com/un-climate-report-global-warming-faster-ipcc-003e9e0b-ae85-4298-ad0c-09fe163b74f4.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.washingtonexaminer.com/news/climate-change-causing-weather-extremes-that-will-worsen-un-report"
+        ]
+    }
+}

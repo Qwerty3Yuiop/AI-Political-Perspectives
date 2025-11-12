@@ -1,0 +1,15 @@
+{
+    "headline": "Bipartisan Senate Report January 6 Finds Intelligence Security Failures",
+    "summary": "A bipartisan group of senators released a report Tuesday detailing the \u201csecurity, planning and response failures\u201d surrounding theJanuary 6th Capitol riot. The report, compiled jointly by two Senate committees, found that Capitol Police\u2019s intelligence component had prior evidence of the potential for violence but failed to fully share that information with Capitol police officers and their partners. The evidence included comments on a pro-Trump website that detailed the Capitol\u2019s tunnel system and said \u201cThis is do or die. Bring your guns.\u201d The senators also recommended giving the Capitol Police chief the authority to directly request National Guard support. The report did not investigate the root causes of the attack, which would have been a focus of the proposed January 6th Commissionrecently blocked by Senate Republicans.Coverage was more prominently featured in left- and center-rated outlets. Some coverage in right-rated outlets focused on different findings of the report, including that the Defense Department\u2019s response was \u201cinformed by criticism\u201d of its response to the George Floyd protests.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/06/08/us/capitol-riot-security.html?action=click&module=Top%20Stories&pgtype=Homepage"
+        ],
+        "center": [
+            "https://www.bbc.com/news/world-us-canada-57402135"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/bipartisan-group-of-senators-release-report-on-capitol-attack-make-recommendations"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Cuomo Declares State Emergency New York Over Gun Violence",
+    "summary": "New York Gov. Andrew Cuomodeclared a state of emergency amid an outbreak of gun violence\u00a0Tuesday, outlining a 7-point plant to combat gun violence in the state. The plan, which costs $138.7 million, will create an office of gun violence prevention within the state Health Department and collect weekly data about each incident of gun violence. A majority of the money will also create approximately\u00a021,000 jobs and programs for communities considered to be at risk for high levels of gun violence.\u201cGun violence and crime should be the top priority for every mayor in this state because every city has been affected by it,\u201d Cuomo\u00a0said Tuesday, adding that gun violence affects the state's economic recovery.\u00a0This comes after 51 people were shot in New York over Independence Day weekend; a total ofat least 150 people were killedin acts of gun violence across the nation over the holiday\u00a0weekend.The story received wide coverage from across the political spectrum. Somevoices from the rightremarked that Cuomo's speech Tuesday sounded like a campaign pitch. Some outlets on the right also mentioned the fact that Cuomo faces allegations of sexual harassment and\u00a0covering up\u00a0nursing home deaths from COVID-19. Outlets on the left and center tended to focus on the recent\u00a0gun violence in New York and across the nation, sometimes framing it as indicative of a need for stricter gun control laws.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/07/06/nyregion/new-york-gun-violence-emergency.html"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/cuomo-declares-emergency-in-new-york-over-gun-violence-11625607820?mod=business_minor_pos4"
+        ],
+        "right": [
+            "https://nypost.com/2021/07/06/cuomo-unveils-plan-to-combat-disaster-emergency-of-gun-violence/"
+        ]
+    }
+}

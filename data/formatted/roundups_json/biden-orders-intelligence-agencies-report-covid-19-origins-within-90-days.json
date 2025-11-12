@@ -1,0 +1,15 @@
+{
+    "headline": "Biden Orders Intelligence Agencies Report Covid 19 Origins Within 90 Days",
+    "summary": "President Joe Biden said Wednesday that he had directed intelligence officials to \u201credouble\u201d their efforts to come closer to a definitive conclusion on the origins of the COVID-19 pandemic and to \u201creport back to me in 90 days.\u201d The announcement came days after theWall Street Journal reported on an intelligence reportstating that three researchers at the Wuhan Institute of Virologyhad symptoms consistent with COVID-19in November 2019, reigniting speculation around the theory that the virus leaked from a Chinese lab. Biden explained that the intelligence community was considering the theory as one of \u201ctwo likely scenarios\u201d with \u201clow or moderate confidence,\u201d but that it had not reached a definitive conclusion. \u201cThe majority of [intelligence community] elements do not believe there is sufficient information to assess one to be more likely than the other,\u201d Biden said.Coverage tended to discuss similar quotes and facts about the story regardless of bias rating. Some right-rated outlets featured the story with opinion\u00a0content criticizing media and Democratic political figures for disregarding the Wuhan lab theory.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/05/26/science/covid-19-origins-who.html"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/biden-calls-for-intelligence-report-on-origins-of-covid-19-11622049664?mod=hp_lead_pos6"
+        ],
+        "right": [
+            "https://www.nationalreview.com/news/biden-orders-intel-officials-to-report-on-covid-origin-within-90-days/"
+        ]
+    }
+}

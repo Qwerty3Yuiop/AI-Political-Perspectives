@@ -1,0 +1,15 @@
+{
+    "headline": "Hack Cuts Nearly 20 Us Meat Production",
+    "summary": "JBS S.A., the world's largest meatpacking company, has cut off livestock slaughter at its five biggest U.S. plantsfollowing a weekend cyber attack. The stoppage reportedly halts nearly 20% of U.S. meat production, and may cause temporary food service shortages and rises in meat prices. JBS told the White House that the hack likely came from Russia; the White House says it has contacted Russia regarding the hack and launched an FBI investigation. President Joe Bidenwill likely discuss the hack with Russian President Vladimir Putinwhen the two meet later this month\u00a0at a summit\u00a0in Geneva, Switzerland. Russian hackers are also suspected of the attack on the Colonial Pipeline last month.The news made headlines across the political spectrum Tuesday; sources usually mentioned the production shutdowns, potential and possible Russian connection. Some reports from center- and right-rated sources framed price rises and shortages as more likely than coverage from left-rated sources did.",
+    "story": {
+        "left": [
+            "https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs"
+        ],
+        "center": [
+            "https://www.reuters.com/world/us/some-us-meat-plants-stop-operating-after-jbs-cyber-attack-2021-06-01/"
+        ],
+        "right": [
+            "https://dailycaller.com/2021/06/01/jbs-meat-packing-russian-hacker-cyberattack-cyber-security-meat-prices/"
+        ]
+    }
+}

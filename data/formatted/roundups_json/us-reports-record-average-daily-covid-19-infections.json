@@ -1,0 +1,15 @@
+{
+    "headline": "Us Reports Record Average Daily Covid 19 Infections",
+    "summary": "Health experts are reporting a record daily average of new coronavirus infections in the U.S.\u00a0as 2021 comes to a close.According to data from the New York Times (Lean Left bias), the daily average of new U.S. COVID-19 cases was 267,305 on Tuesday, the highest ever. The previous high was 250,512 in January. The new peak comes from a rapid acceleration of coronavirus cases in the U.S. and across the world since last month amid the spread of the Omicron variant. In the U.S. alone, more than 440,000 new COVID-19\u00a0cases were reported on Monday. England, France,\u00a0Greece, Italy and\u00a0Portugal also reported record numbers of daily infections this week. Hospitalizations have also increased in recent weeks, but are not as high as they were during previous COVID-19 case spikes in January and September. Several studies suggest thatOmicron is much less likely to cause severe illnessthan other COVID-19 strains.Left- and center-rated outlets highlighted the news prominently. Some coverage of the data\u00a0from right-rated sources framed President Joe Biden in a negative light and contrasted the news with Biden's previous pledge to \"shut down the virus.\" Some on the right instead focused on how theCDC drastically reduced its estimateof Omicron's prevalence among the U.S. population.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/12/28/us/us-coronavirus-tuesday/index.html"
+        ],
+        "center": [
+            "https://www.bbc.com/news/world-59814661"
+        ],
+        "right": [
+            "https://www.dailywire.com/news/daily-cases-of-coronavirus-smash-records-in-u-s-after-biden-promised-to-shut-down-the-virus"
+        ]
+    }
+}

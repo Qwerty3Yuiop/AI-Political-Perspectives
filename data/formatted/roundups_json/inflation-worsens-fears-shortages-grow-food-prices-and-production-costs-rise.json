@@ -1,0 +1,14 @@
+{
+    "headline": "Inflation Worsens Fears Shortages Grow Food Prices And Production Costs Rise",
+    "summary": "Whilehigh-priced groceries continue to roil consumers, rising food production costs are hampering\u00a0farmers\u00a0and stoking widespread uncertainty.Global food prices hit a record high in February, rising 20.7% from a year before and over 40% from two years ago. Meanwhile, according toThe Fertilizer Institute, common fertilizer prices rose\u00a0from $200 per ton in July 2020\u00a0to over $600 per ton in\u00a0February 2022. In addition to high prices, farmers have also been impacted\u00a0by supply chain disruptions that continue to delay orders of key agricultural machinery.Russia's invasion of Ukrainespurredglobal wheat prices to hit record highslast week, driving more market instability and fears of shortages.\u00a0Before the conflict began, Russia and Ukraine combined\u00a0to produce roughly 26% of the world's wheat. The UN Food and Agriculture Organization warned last week of a potential food crisis amid the conflict and persistently high prices across the globe.Many reports\u00a0highlighted high food production costs and frustrated farmers alongside coverage of persistent inflation.\u00a0Sources across the spectrum\u00a0quoted farmers who said that despite high prices,\u00a0they're\u00a0struggling to sell products and may have to cut production. Left-rated sources were more likely to highlight concerns about food shortages and high prices in a global context. Some right-rated sources focused more on how Russia's invasion and high production costs are affecting U.S. farmers.",
+    "story": {
+        "left": [
+            "https://www.bloomberg.com/news/articles/2022-03-19/soaring-prices-for-everything-in-the-food-supply-chain-means-more-inflation",
+            "https://www.cnbc.com/2022/03/24/russias-ukraine-war-boosts-food-prices-in-us-vexing-farmers-about-planting-more.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.theepochtimes.com/farmers-paying-triple-for-fertilizer-were-not-the-ones-raising-food-costs_4354883.html"
+        ]
+    }
+}

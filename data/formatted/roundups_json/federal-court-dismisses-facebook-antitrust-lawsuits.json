@@ -1,0 +1,14 @@
+{
+    "headline": "Federal Court Dismisses Facebook Antitrust Lawsuits",
+    "summary": "On Monday, a federal court dismissed antitrust lawsuits against Facebook by\u00a0the Federal Trade Commission (FTC) and more than 40 states. Judge\u00a0James E. Boasberg dismissed the states'\u00a0lawsuit, which claimed Facebook had an unfair monopoly and said it should sell popular applications Instagram and WhatsApp,\u00a0because too much time had passed since Facebook bought the companies in 2012 and 2014.Boasberg wrote separatelythat the FTC's suit\u00a0did not present enough facts to support that Facebook had a monopoly on the social networking industry. Boasberg gave the FTC 30 days to refile its\u00a0complaint.Outlets from across the political spectrum covered the story; some highlighted the spike in Facebook's stock after the decision, while someleft-rated outletsfeatured quotes from Big Tech critics such asSen. Josh Hawleyand members of the American Economic Liberties Project.",
+    "story": {
+        "left": [
+            "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
+            "https://www.nytimes.com/2021/06/28/technology/facebook-ftc-lawsuit.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.washingtonexaminer.com/news/federal-court-dismisses-ftc-lawsuit-facebook-monopolistic-behavior"
+        ]
+    }
+}

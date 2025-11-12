@@ -1,0 +1,15 @@
+{
+    "headline": "Technology Big Tech Announces Pledge Combat Voter Manipulation Through Ai",
+    "summary": "Several tech giants have signed an agreement to work collaboratively to address the issue of deceptive artificial intelligence (AI) being used to interfere with this year's global elections.The Details:A group of 20 companies, including Adobe, Amazon, Google, IBM, Meta, Microsoft, OpenAI, Snap, TikTok, and X, pledged to create tools to counteract the distribution of manipulative AI-generated content created to mislead voters. The accord was announced on Friday at the Munich Security Conference. Besides committing to creating tools to detect misleading AI-generated content, the companies also pledged to work on educating the public and increasing transparency.For Context:The increasing use of AI and deepfake technology has raised concerns about its ability to manipulate public opinion. Recently,deceitful AI\u00a0impersonating President Bidenurged New Hampshire voters not to participate in the state's primary election.Key Quotes:Nick Clegg, president of global affairs at Meta Platforms, said, \u201cI think the utility of this (accord) is the breadth of the companies signing up to it,\u201d adding that without a concerted effort from big tech, they would \u201cbe stuck with a hodgepodge of different commitments.\u201dHow the Media Covered It:Reuters (Center bias)added that generative AI is already being used to influence voters.USA TODAY (Lean Left bias)highlighted the potency of deepfake technology.Washington Examiner (Lean Right bias)included context on federal lawmakers\u2019 current sentiments towards AI legislation.\"This summary was developed with the help of AllSides' AI technology.\"",
+    "story": {
+        "left": [
+            "https://usatoday.com/story/news/politics/elections/2024/02/16/ai-deepfakes-crackdown-2024-elections/72616244007/"
+        ],
+        "center": [
+            "https://www.reuters.com/technology/openai-meta-other-tech-giants-sign-effort-fight-ai-election-interference-2024-02-16/"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/technology/2861183/big-tech-action-against-ai-deepfakes/"
+        ]
+    }
+}

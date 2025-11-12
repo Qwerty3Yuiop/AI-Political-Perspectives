@@ -1,0 +1,14 @@
+{
+    "headline": "Banking And Finance Blame Game Begins Silicon Valley Bank Collapse",
+    "summary": "Some politicians and media figures sought to place blame afterSilicon Valley Bankbecamethe second-largest bank to fail in U.S. history.Blaming Loose Rules:Some voices noted that SVB was one of several small and mid-size banks which lobbied to exempt themselves from the 2010 Dodd-Frank Act\u2019s regulations. Those rules were rolled back in a 2018 bill signed by former President Donald Trump which received\u00a0support from\u00a017 Democratic senators and 50 Republican senators. On Monday, Sen. Elizabeth Warren (D-MA) argued inThe New York Times (Opinion rated Left)that SVB\u2019s\u00a0failure\u00a0was\u00a0\u201cthedirect resultof leaders in Washington weakening the financial rules.\u201dBlaming ESG:Some conservatives, like Home Depot cofounder Bernie Marcus, pointed to SVB\u2019s\u00a0so-called \u201cwoke\u201d policies. TheNew York Post (Lean Right bias)published a report on an SVB executive who worked on LGBTQ+ outreach, appearing to draw\u00a0a connection between inclusivity efforts and the bank\u2019s failure.Blaming Financiers:Those connected to the issue had their own ideas about whom to blame. A financial trader toldCNBC (Center bias)on Monday that SVB\u2019s \u201cgreed and avarice\u201d were at fault. Some in the industry blamed SVB\u2019s executives, and others accused venture capitalists of egging on SVB\u2019s bad practices. Some alsoblamedtheFederal Reserve\u2019s interest rate hikes.How the Media Covered It:Perspectives were polarized; coverage discussing Dodd-Frank regulations was more common on the center-left, and coverage of those blaming \u201cwoke\u201d policies was more common on the right. AFox News (Right bias)report disputed those blaming Trump by calling the 2018 rule rollback \u201cbipartisan.\u201d",
+    "story": {
+        "left": [
+            "https://www.cnbc.com/2023/03/13/svb-collapse-silicon-valleys-greed-and-avarice-to-blame-trader-says.html",
+            "https://www.politico.com/news/2023/03/13/barney-frank-signature-bank-collapse-warren-trump-00086765"
+        ],
+        "center": [],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/economy/svb-collapse-republicans-pin-blame-for-bank-failure-on-woke-policies"
+        ]
+    }
+}

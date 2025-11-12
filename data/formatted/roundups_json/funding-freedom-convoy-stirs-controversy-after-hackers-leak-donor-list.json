@@ -1,0 +1,15 @@
+{
+    "headline": "Funding Freedom Convoy Stirs Controversy After Hackers Leak Donor List",
+    "summary": "OnSunday night, hackers released a list of names of those who purportedly donated to Canada\u2019s Freedom Convoy through Christian fundraising site GiveSendGo.About 55,000 of the roughly 93,000 donors were American, according to a Tuesday analysis from theWashington Post (Lean Left); GiveSendGo toldFox Business\u00a0(Lean Right)on Tuesday thatroughly half of donationscame from\u00a0Americans. On Wednesday, police in Ottawa told the protesting truckers\u00a0to clear the city\u2019s streets orface criminal charges. The same day,\u00a0two Canadian police departments froze 34 cryptocurrency wallets tied to Freedom Convoy funding after Canadian Prime Minister Justin Trudeau authorized the use of Canada\u2019sEmergencies Act.Coverage was somewhat more common in right-rated outlets. While some coverage in right-rated outlets tended to highlight threats against small donors in Canada, some coverage in left-rated outlets highlightedprominent Republican donorsin the U.S.",
+    "story": {
+        "left": [
+            "https://www.washingtonpost.com/investigations/2022/02/15/american-donors-freedom-convoy-zipcodes/"
+        ],
+        "center": [
+            "https://www.coindesk.com/policy/2022/02/16/canada-sanctions-34-crypto-wallets-tied-to-trucker-freedom-convoy/"
+        ],
+        "right": [
+            "https://www.foxnews.com/world/ottawa-cafe-close-business-threats-freedom-convoy-donor-hacked"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Typhoon Mangkhut Hits China",
+    "summary": "Typhoon Mangkhut has landed in China after already hitting the Philippines. It has brought in torrential rainfall and winds up to 100 miles per hour. More than 2.4 million people have been evacuated from the area.",
+    "story": {
+        "left": [
+            "https://www.theguardian.com/weather/2018/sep/16/typhoon-mangkhut-to-china-as-philippines-death-toll-rises"
+        ],
+        "center": [
+            "https://www.reuters.com/article/us-asia-storm/super-typhoon-slams-into-china-after-pummeling-philippines-idUSKCN1LW00F"
+        ],
+        "right": [
+            "https://www.newsmax.com/world/globaltalk/as-asia-typhoon-the/2018/09/16/id/881902/"
+        ]
+    }
+}

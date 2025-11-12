@@ -1,0 +1,14 @@
+{
+    "headline": "Un Climate Report Highlights Unavoidable Risks Global Warming Urges Action",
+    "summary": "TheUnited Nations' climate change panel issued a reportMonday, arguing that unchecked global warming\u00a0presents \"a threat to human well-being and planetary health.\"The Intergovernmental Panel on Climate Change called for \"urgent decision-making\" in its report, and said any delay in climate change mitigation efforts \"will miss a brief and rapidly closing window of opportunity to secure a liveable and sustainable future for all.\" The report estimates that the world is currently 1.1 degrees Celsius warmer than it was before industrialization, and that if that number rises above 1.5 degrees Celsius, some changes will be irreversible and billions of people will suffer from water shortages, extreme weather events and more. More than 200 scientists contributed to the report.The report was covered prominently by left- and center-rated sources, many of which framed it as very concerning and indicative of the need to act on climate change and do more to protect the environment. Right-rated outlets covered the report less frequently. Some on the right connected the report to the Russia-Ukraine conflict, and framed\u00a0world leaders\u00a0pivoting away from\u00a0fossil fuels as having empowered\u00a0Russian President Vladimir Putin to take advantage of continued demand for oil and gas in Europe.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2022/02/28/world/un-ipcc-climate-report-adaptation-impacts/index.html",
+            "https://apnews.com/article/climate-science-europe-united-nations-weather-8d5e277660f7125ffdab7a833d9856a3"
+        ],
+        "center": [],
+        "right": [
+            "https://www.washingtontimes.com/news/2022/feb/28/un-climate-panels-dire-warning-hits-realpolitik-pu/"
+        ]
+    }
+}

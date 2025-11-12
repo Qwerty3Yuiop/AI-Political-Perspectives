@@ -1,0 +1,15 @@
+{
+    "headline": "Biden Approval Ratings Remain Low",
+    "summary": "Multiple polls released this week suggest that a majority of Americans continue to disapprove of the way President Joe Biden is handling the presidency.Apollfrom Quinnipiac University says that 33% of Americans approve of Biden while 54% disapprove; the 33% approval rating is tied for the Quinnipiac poll's lowest mark for Biden since he took office.DatafromFiveThirtyEight (Center bias)says 41% of Americans approve of Biden and 52% disapprove.\u00a0CNN's poll puts Biden's approval rating at 39%, with 55% disapproving. Most of the marks are unchanged or slightly down over the past several months, ashigh inflation continues to irk the American public.Biden's low approval ratings have been covered by news sources across the political spectrum, with extra attention from right-rated sources.Coverage on all sidesframed the data as bad news for Biden and Democrats heading into the2022 midterm elections. Some coverage from the right highlighted how Biden appears to have lost support among younger Americans andHispanics.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2022/04/14/politics/biden-approval-rating-polls/index.html"
+        ],
+        "center": [
+            "https://news.gallup.com/poll/391733/biden-job-approval-down-among-younger-generations.aspx"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/news/white-house/president-joe-biden-faces-low-job-approval-ratings-ahead-of-the-2022-midterm-elections"
+        ]
+    }
+}

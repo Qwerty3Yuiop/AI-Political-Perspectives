@@ -1,0 +1,15 @@
+{
+    "headline": "Media Industry Report Details Twitter Censorship 2020 Presidential Election",
+    "summary": "On Friday night,Matt Taibbi (Center Bias)began tweeting the first installment of \u2018The Twitter Files,\u2019 detailing internal discussions at the social media company in the lead up to the 2020 Presidential election, specifically focusing on the platform\u2019s censorship and suppression of astoryfrom the New York Post detailing emails obtained from the laptop of Hunter Biden, Joe Biden\u2019s son, that indicated a possible abuse of power.Key Quotes:Taibbilabeled the report\u201can incredible story from inside one of the world\u2019s largest and most influential social media platforms.\u201d Detailing how the company handled their suspicion regarding the authenticity of the Hunter Biden story, Taibbistatedthat \u201cTwitter took extraordinary steps to suppress the story, removing links and posting warnings that it may be \u2018unsafe.\u2019 They even blocked its transmission via direct message, a tool hitherto reserved for extreme cases, e.g. child pornography.\u201dHow the Media Covered It:The first installment of this report was the top story in many outlets on the right Saturday morning, with the New York Post calling the report \u201cdamning.\u201d It was covered less prominently on the left, with the angle being that the new information did not reveal much besides dysfunction and confusion at Twitter HQ at the time. TheWashington Examiner (Lean Right Bias)posted asimilar articledetailing disappointment from conservative pundits who questioned if there was more to the story that was not being released. Forbes stated the report \u201cdoesn\u2019t deliver any particular shocking new details.\u201d",
+    "story": {
+        "left": [
+            "https://www.thedailybeast.com/deeply-underwhelmed-right-wingers-on-musks-overhyped-twitter-files?ref=home"
+        ],
+        "center": [
+            "https://www.forbes.com/sites/brianbushard/2022/12/03/musks-twitter-files-internal-hunter-biden-debate-revealed-with-much-hype-but-no-bombshells/?sh=312b21ca7ea6"
+        ],
+        "right": [
+            "https://nypost.com/2022/12/02/elon-musk-releases-twitters-files-on-censorship-of-post/"
+        ]
+    }
+}

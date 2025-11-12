@@ -1,0 +1,15 @@
+{
+    "headline": "Report Contradicts Fauci Says Us Funded Controversial Virus Research China",
+    "summary": "A report this week from The Intercept (Left bias) details evidence that the U.S. funded controversial virus research at the Wuhan Institute of Virology (WIV) in Wuhan, China. National Institutes of Health (NIH) documents obtained by The Intercept delve into \"gain-of-function\" research at WIV backed by a U.S. grant. Gain-of-function research involves\u00a0experimenting\u00a0with making viruses more pathogenic or contagious to study them more closely; the U.S. grant\u00a0reportedly specified that\u00a0the money shouldn't be used for gain-of-function experiments. Scientists quoted by The Intercept raised biosafety concerns about the research, while \"unanimously\" telling the news outlet that the research \"could not have directly sparked the pandemic.\"The documentscontradict Dr. Anthony Fauci's congressional testimony in May, in which he said the U.S. \"has not ever and does not now fund gain-of-function research in the Wuhan Institute of Virology.\"\u00a0Fauci directs\u00a0the National Institute of Allergy and Infectious Diseases (NIAID), which is part of the NIH.The Intercept's report was covered heavily by right-rated outlets; almost no left- or center-rated outlets covered it.\u00a0Coverage from right-rated outlets often highlighted specifics about the research and framed Fauci and the Biden administration as liars, while omitting\u00a0or downplaying\u00a0the scientists' opinion that the research couldn't have caused the COVID-19 pandemic.",
+    "story": {
+        "left": [
+            "https://theintercept.com/2021/09/09/covid-origins-gain-of-function-research/"
+        ],
+        "center": [
+            "https://www.newsweek.com/fauci-untruthful-congress-wuhan-lab-research-documents-show-gain-function-1627351"
+        ],
+        "right": [
+            "https://dailycaller.com/2021/09/09/ecohealth-alliance-gain-of-function-higher-viral-load-anthony-fauci/"
+        ]
+    }
+}

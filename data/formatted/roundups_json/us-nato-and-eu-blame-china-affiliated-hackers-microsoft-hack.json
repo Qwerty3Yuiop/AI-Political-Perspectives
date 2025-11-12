@@ -1,0 +1,14 @@
+{
+    "headline": "Us Nato And Eu Blame China Affiliated Hackers Microsoft Hack",
+    "summary": "The Biden administration joined a broad group of U.S. allies in formally blaming a hacking group tied to China\u2019s Ministry of State Security (MSS), known as \u201cHafnium,\u201d for abreach of Microsoft\u2019s Exchange Server email softwareearlier this year.Microsoft itself blamed the group in March, labeling it a \u201cstate-sponsored threat actor,\u201d but governments held off blame until investigators had \u201chigh confidence\u201d that the group was affiliated with the MSS. Additionally, the Justice Department indicted three MSS officers and one contracted hacker on separate hacking charges.The White House said in a statementthat the U.S. had raised the issue with the Chinese government, andSecretary of State Anthony Blinken said in a press releasethat \u201cthe United States will impose consequences on PRC malicious cyber actors for their irresponsible behavior in cyberspace.\" No sanctions have been issued as of Monday afternoon.Coverage differed across the spectrum in saying the U.S. had accused either the Chinese government itself\u00a0or just \u201cChinese-linked\u00a0hackers\"; statements byNATO,the European Union,Canadaandthe U.K.also varied somewhat on\u00a0that point. While most coverage focused on the Microsoft hack, some coverage focused on the broader accusations of criminal hacking activity, including ransomware attacks, made against MSS-affiliated hackers.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/07/19/us/politics/microsoft-hacking-china-biden.html?action=click&module=Top%20Stories&pgtype=Homepage",
+            "https://www.cnbc.com/2021/07/19/nato-and-eu-launch-a-cyber-security-alliance-to-confront-chinese-cyberattacks.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/defense-national-security/us-and-allies-blame-chinas-spy-agency-for-really-eye-opening-cyberattacks"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Supreme Court Supreme Court Justices Hesitant Upend Section 230 Google Case",
+    "summary": "Supreme Court justices appeared wary of making major changes to Section 230 of the Communications Decency Act, observers said \u2014 in part because of wariness over their understanding of the internet.Key Quotes:At one point, Justice Samuel Alito said he was \u201ccompletely confused\u201d after petitioner\u2019s counsel Eric Schnapper discussed how video thumbnail placement might be considered partly\u00a0YouTube\u2019s own speech as well as that of a third party. Justice Elena Kagan suggested that the issue might be better left to Congress, since the justices\u00a0were \u201cnot, like, the nine greatest experts on the internet.\u201dThe Case in Question:The Supreme Court is consideringGonzalez v. Google,in which the plaintiffs \u2014 parents of an American college student killed in an ISIS terrorist attack \u2014 are suing Google for allegedly violating the Anti-Terrorism Act by hosting ISIS videos on YouTube.What\u2019s Section 230?Section 230 of the Communications Decency Act allows online platforms like Facebook to host content posted by third parties without bearing the legal responsibility of a \u201cpublisher\u201d of that\u00a0content. Without that protection, experts say, sites like Google couldn\u2019t function the way they do today.Some Democrats and Republicans have previously called for reforming the law,albeit for different reasons.How the Media Covered It:Coverage was common across the spectrum, with some articles placing more emphasis on justices\u2019 purported lack of internet expertise. However, The Verge (Lean Left bias) took a different approach, calling the hearing both \u201cremarkably entertaining\u201d and \u201cunexpectedly measured.\u201d",
+    "story": {
+        "left": [
+            "https://www.theverge.com/2023/2/21/23608949/supreme-court-section-230-gonzalez-google-youtube-algorithm-oral-arguments"
+        ],
+        "center": [
+            "https://www.scotusblog.com/2023/02/not-like-the-nine-greatest-experts-on-the-internet-justices-seem-leery-of-broad-ruling-on-section-230/"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/justices-completely-confused-arguments-section-230-case-google-could-reshape-internet"
+        ]
+    }
+}

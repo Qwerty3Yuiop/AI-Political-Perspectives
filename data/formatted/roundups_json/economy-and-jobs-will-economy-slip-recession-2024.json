@@ -1,0 +1,15 @@
+{
+    "headline": "Economy And Jobs Will Economy Slip Recession 2024",
+    "summary": "How is the American economy expected to perform in 2024?Downward Pressure:An article in theWashington Examiner (Lean Right bias)concluded that the economy defied the expectations of many economists by avoiding recession in 2023, but the article warned of \u201cmuch uncertainty for what lies ahead in 2024.\u201d Noting that heightened interest rates take time to impact the greater economy, the piece highlights the possibility that \u201cdownward pressure\u201d could hinder economic growth at the start of 2024 and potentially push the economy into recession, albeit an expected \u201cmild one.\u201dEncouraging Signs:A piece inUSA Today (Lean Left bias)acknowledged the \u201cdelayed effects\u201d of raised interest rates on economic growth as well as other potential variables that could spell trouble for the economy in the new year, but countered fears by noting other factors \u201clikely to keep the economy afloat,\u201d such as high home and stock prices, expected interest rate cuts, and the continued easing of inflation. The article balanced \u201cencouraging signs\u201d with risks, foreseen and unforeseen, to dismiss worries that a recession is inevitable.Falling Inflation:An article in theWall Street Journal (Center bias)deemed signs that global inflation is falling faster than expected to be a\u00a0\u201cChristmas miracle.\u201d The article cites economic analysts determining that inflation should reach the target of many major banks by the end of the year. This would help economic growth by increasing consumer spending power and potentially leading the Federal Reserve to cut interest rates.",
+    "story": {
+        "left": [
+            "https://www.usatoday.com/story/money/2024/01/02/2024-economic-outlook-brightens/72055290007/"
+        ],
+        "center": [
+            "https://www.wsj.com/economy/central-banking/inflation-2024-outlook-economy-98defce9?mod=economy_trendingnow_article_pos5"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/economy/wex-mas-2024-year-recession"
+        ]
+    }
+}

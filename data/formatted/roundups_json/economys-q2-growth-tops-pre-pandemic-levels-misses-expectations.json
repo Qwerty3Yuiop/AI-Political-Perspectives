@@ -1,0 +1,15 @@
+{
+    "headline": "Economys Q2 Growth Tops Pre Pandemic Levels Misses Expectations",
+    "summary": "The U.S. economy grew at an annualized rate of\u00a06.5% in the second quarter of 2021, according to aBureau of Economic Analysis reportreleased Thursday. The country's gross domestic product (GDP) grew\u00a01.6% from Q1 of 2021, and is now higher than it was before the start of the COVID-19 pandemic. Some economic analysts and experts reportedly expected annualized Q2 growth to be closer to 8.5%.Left-rated outlets often focused on the rapid pace of growth, quoting optimistic sources and placing\u00a0less attention on the fact that the final number missed economists' expectations. Center- and right-rated outlets highlighted the growth while also framing it as underwhelming, attributing the shortcomings\u00a0to labor shortages, supply chain issues, and concerns about the Delta variant.",
+    "story": {
+        "left": [
+            "https://www.cbsnews.com/news/us-economy-gdp-6-5-exceeds-pre-pandemic-level/"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/us-gdp-economic-growth-first-quarter-2021-11627508180?mod=hp_lead_pos1"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/economy/gross-domestic-product-q2-2021"
+        ]
+    }
+}

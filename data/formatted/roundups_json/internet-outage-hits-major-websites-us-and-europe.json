@@ -1,0 +1,15 @@
+{
+    "headline": "Internet Outage Hits Major Websites Us And Europe",
+    "summary": "Dozens of websites in the U.S. and Europe were unavailable Tuesday morning, including\u00a0the U.K. government\u2019s main public-services portal and several major U.S. and European news outlets, such as the New York Times, CNN and Le Monde.The issue is reportedly tied to a glitch with cloud computing services provider Fastly, which said a fix has been applied.",
+    "story": {
+        "left": [
+            "https://www.washingtonpost.com/business/2021/06/08/major-websites-experience-outages-including-new-york-times-cnn-amazon-web-services/"
+        ],
+        "center": [
+            "https://www.reuters.com/business/media-telecom/finiancial-times-new-york-times-bloomberg-news-websites-down-2021-06-08/"
+        ],
+        "right": [
+            "https://www.breitbart.com/europe/2021/06/08/servers-down-uk-government-amazon-cnn-newspaper-websites-impacted/"
+        ]
+    }
+}

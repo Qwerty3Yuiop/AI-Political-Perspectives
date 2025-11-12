@@ -1,0 +1,15 @@
+{
+    "headline": "Report Facebook Paid Political Consulting Group Discredit Critics",
+    "summary": "A new report by the New York Times alleges that Facebook sought to \"delay, deny and deflect\" amid the criticism it received for its handling of Russian disinformation and hate speech. The network has  terminated its relationship with Definers, a GOP-opposition political consulting group that it hired to tie its critics to liberal philanthropist George Soros.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html?action=click&module=inline&pgtype=Homepage"
+        ],
+        "center": [
+            "https://thehill.com/policy/technology/416876-facebook-cuts-ties-from-firm-that-linked-its-critics-to-george-soros"
+        ],
+        "right": [
+            "https://www.foxnews.com/tech/facebook-new-york-times-fight-gets-ugly-social-network-slams-newspapers-inaccuracies"
+        ]
+    }
+}

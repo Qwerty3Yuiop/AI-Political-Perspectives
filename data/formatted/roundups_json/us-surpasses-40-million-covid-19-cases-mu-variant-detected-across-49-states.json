@@ -1,0 +1,15 @@
+{
+    "headline": "Us Surpasses 40 Million Covid 19 Cases Mu Variant Detected Across 49 States",
+    "summary": "The U.S. surpassed 40 million COVID-19 cases on Monday as\u00a0the highly infectious Delta variant continues to spread across the nation, with more than 4 million infections\u00a0reported in the last four weeks. The daily death count has also exceeded 1,500\u00a0for the first time since March,according to a New York Times (Lean Left bias) tracker. This news comes as the mu variant was\u00a0detected in 49 states and\u00a0added to WHO's \"variants of interest\" list.\u00a0Fifty-three percent\u00a0of U.S. citizens are currently fully vaccinated while 62.5% have received at least one shot,according to the CDC\u2019s vaccination tracker.Left-rated outlets were more likely to suggest that the fourth wave has \"overwhelmed hospitals\" andlink\u00a0to data from the CDCthat suggests the 40 million statistic\u00a0is actually an undercount. Right-rated outlets highlighted howFauci said\u00a0the mu variant was \"not an immediate threat\"on Sunday and that COVID-19\u00a0cases are declining in the U.S. for the first time since June.",
+    "story": {
+        "left": [
+            "https://www.nbcnews.com/news/us-news/u-s-hits-40-million-covid-cases-delta-variant-spreads-n1278538"
+        ],
+        "center": [
+            "https://www.marketwatch.com/story/u-s-covid-19-case-tally-tops-40-million-and-hospitalizations-over-labor-day-holiday-were-more-than-double-last-years-11631025949"
+        ],
+        "right": [
+            "https://www.dailymail.co.uk/health/article-9966057/COVID-cases-declining-time-June.html"
+        ]
+    }
+}

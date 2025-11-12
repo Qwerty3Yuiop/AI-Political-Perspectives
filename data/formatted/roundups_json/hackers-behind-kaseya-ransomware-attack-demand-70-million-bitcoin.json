@@ -1,0 +1,15 @@
+{
+    "headline": "Hackers Behind Kaseya Ransomware Attack Demand 70 Million Bitcoin",
+    "summary": "Russian-linked cybercrime group REvil reportedly demanded $70 million in Bitcoin on Monday to restore data targeted in a massive ransomware attack. The attack was launched on Friday againstKaseya, a Miami-based software provider, using its\u00a0IT management software to spread to thousands of connected systems in at least 17 countries. The ransom demand waspostedon REvil\u2019s dark web site Happy Blog, leading experts to conclude that the group was behind the attack. REvil was also behind theransomware attack against meatpacking company JBS, which resulted in an$11 million payment. President Joe Biden said Saturday that he hadorderedU.S. intelligence agencies to investigate the attack.Coverage was mostly balanced on all sides. Coverage differed across the spectrum in its descriptions of REvil, which included \u201ccybercrime gang,\u201d \u201cthe notorious REvil gang,\u201d and \u201cRussian-linked hackers.\u201d",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/07/05/business/ransomware-group-payment-kaseya/index.html"
+        ],
+        "center": [
+            "https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/"
+        ],
+        "right": [
+            "https://nypost.com/2021/07/05/russian-hackers-seemingly-behind-latest-ransomware-attack/"
+        ]
+    }
+}

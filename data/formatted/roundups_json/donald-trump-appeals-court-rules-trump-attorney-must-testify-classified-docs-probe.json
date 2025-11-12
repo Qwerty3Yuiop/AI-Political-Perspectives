@@ -1,0 +1,15 @@
+{
+    "headline": "Donald Trump Appeals Court Rules Trump Attorney Must Testify Classified Docs Probe",
+    "summary": "A federal appeals court rejected Former President Donald Trump\u2019s stay request, requiring his attorney Evan Corcoran to testify in the special counsel\u2019s documents probe.The Details:The rejection backs a grand jury subpoena issued by special counsel Jack Smith. The ruling was made in a notably swift fashion by a panel of three Obama appointees on the D.C. Circuit Court of Appeals. Corcoran had previously cited Attorney-Client Privilege (ACP) as a means of blocking the special counsel from requiring him to testify or provide documents pertaining to his communications with Trump. D.C. District Court Judge Beryl Howell determined the DOJ had presented enough evidence pointing to Corcoran\u2019s legal advice leading to the furtherance of a crime, a crime-fraud exception that pierces his ACP rights.The Context:Last year, theNational Archives concludedTrump had taken documents from the White House to his residence, Mar-a-Lago, during his presidency, that included classified information. TheFBI raided the residencein August, looking for the documents, which Trump himself called \u201cthe weaponization of the Justice System,\u201d a sentiment a Trump spokesperson echoed to ABC News today.How The Media Covered It:Sources across the spectrum highlighted the unequivocal swiftness of the rejection. A writer for National Review mentions Biden\u2019s classified documents scandal and says if Trump were eventually prosecuted, he may have a strong case for appeal on the grounds of violated ACP.",
+    "story": {
+        "left": [
+            "https://abcnews.go.com/US/appeals-court-rules-trump-attorney-evan-corcoran-testify/story?id=98055022"
+        ],
+        "center": [
+            "https://thehill.com/regulation/court-battles/3913007-appeals-court-backs-doj-forcing-trump-attorney-to-aid-documents-probe/"
+        ],
+        "right": [
+            "https://www.nationalreview.com/corner/federal-appeals-court-rejects-trump-stay-request-ordering-his-lawyer-to-provide-information-on-mar-a-lago-to-special-counsel/"
+        ]
+    }
+}

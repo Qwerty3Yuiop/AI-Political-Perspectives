@@ -1,0 +1,15 @@
+{
+    "headline": "Midterms Near Parties Craft Dueling Narratives Election Season",
+    "summary": "2022 Election Dayisgrowing\u00a0closer, and what was once expected to be an overwhelming victory for the Republican Partynow appears to be a more\u00a0even matchup. As party leaders continue to push dueling national narratives, media speculators are working hard to determine not only who voters will cast ballots for, but for which issues they will journey to the polls.The Democratic Party, which media outlets portrayed as dead on arrival in the spring, has found new life andmomentumafter a turbulent summer marked by the overturning ofRoe V. Wade, a revitalizedWhite House, and increasingly fierce rhetoric towards Trump-loyal members of the GOP. Democratic candidates are working to frame November\u2019s elections around two key issues \u2013 the preservation of democracy and the protection of civil rights, specificallyabortion. The Republicans, who have history on their side as the party opposing the White House in the midterm elections, are focusing on another issue that often decides elections \u2013 theeconomy. A taxing summer marked by high gas prices andinflationhas given Republicans plenty of ammunition to lambaste majority Democrats.The issues pressed by each party are evident in the respective media coverage.Breitbart (Right Bias)has a tag on their site homepage titled \u201cBiden Recession.\u201d Coverage on the left has focused on the impact women will have in the midterms, with a guest writer for theNew York Times Opinion (Left Bias)predicting Democrats could \u201cbuck historic trends\u201d this election season thanks to increased women turnout.",
+    "story": {
+        "left": [
+            "https://www.washingtonpost.com/politics/2022/09/05/abortion-roe-midterms/"
+        ],
+        "center": [
+            "https://thehill.com/homenews/administration/3635973-the-five-issues-that-will-decide-the-midterm-elections/"
+        ],
+        "right": [
+            "https://dailycaller.com/2022/09/09/white-house-biden-economic-record-midterms/"
+        ]
+    }
+}

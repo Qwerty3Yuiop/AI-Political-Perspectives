@@ -1,0 +1,15 @@
+{
+    "headline": "Donald Trump House Committee Approves Public Release Trumps Tax Returns",
+    "summary": "The House Ways and Means Committee has obtained former President Donald Trump's tax returns, and is set to make them public within days.The Details:Initial documentsreleased by House Democrats show how Trump pulled in millions of dollars from investments\u00a0between 2015 and 2020, while also claiming millions in real estate\u00a0losses that reduced his tax burden. Trump paid $750 in income tax in 2016\u00a0and 2017, and $0 in 2020. In addition, Democrats say the IRS failed to maintain its mandatory presidential audit program while Trump was in office, and that they could only find proof of a single IRS audit during his presidency.Key Quotes:\"This is a major failure of the IRS under the prior administration, and certainly not what we had hoped\u00a0to find,\" said Rep. Richard Neal (D-Mass.), chair of the\u00a0Ways and Means Committee.For Context:Neal mounted the legal fight to obtain Trump's tax returns back in 2019, and the Supreme Courtruled in Neal's favorlast month.How the Media Covered It:Left- and center-rated sources have covered the news more prominently than right-rated sources have. Many on the left frame the details of the returns as evidence of Trump's shady\u00a0financial practices. Some center- and right-rated outlets focused more on issues with the tax system overall, like\u00a0questions about the tax code and the IRS's reluctance to audit Trump, and were less likely to frame Trump negatively.",
+    "story": {
+        "left": [
+            "https://www.politico.com/news/2022/12/20/trump-tax-returns-release-neal-democrats-00074901"
+        ],
+        "center": [
+            "https://thehill.com/policy/finance/3784189-how-trump-paid-0-in-income-tax-in-2020/"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/news/committee-votes-publicly-trump-tax-returns"
+        ]
+    }
+}

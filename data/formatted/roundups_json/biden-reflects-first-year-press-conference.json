@@ -1,0 +1,15 @@
+{
+    "headline": "Biden Reflects First Year Press Conference",
+    "summary": "President Joe Bidengave a speech and answered questions from the pressfor nearly two hours on Wednesday, one day before theanniversaryof hisinauguration.Biden addressed a wide range of topics and answered questions from outlets across the political spectrum. On his first year as president, Biden said he \u201cdidn\u2019t overpromise\u201d but instead made \u201cenormous progress.\u201d On thepossibility of a Russian invasion of Ukraine, Biden again threatened sanctions but said Russian President Vladimir Putin would \u201ctest the West \u2026 as significantly as he can,\u201d adding, \u201cMy guess is he will move in.\u201d On the future of hisBuild Back Better agenda, the president said, \u201cWe\u2019re going to have to probably break it up\u201d into separate bills. Biden also briefly lamented thepolarized nature of political news.Coverage of Biden\u2019s speech made top headlines across the spectrum but was sharply polarized. Coverage from the left tended to be relatively straightforward, with several outlets prominently featuring Biden\u2019s Russia prediction.\u00a0Coverage from the right tended to be more negative; a Fox News (Right) homepage headline said, \u201cBiden defends terrible first year during fiery news conference, goes even further,\u201d with the tagline, \u201cOh, Joe\u2026\u201d\u00a0BothWashington Examiner (Lean Right)andCBS News (Lean Left)called Biden \u201cdefiant.\u201d",
+    "story": {
+        "left": [
+            "https://www.nbcnews.com/news/world/blinken-ukraine-russia-attack-short-notice-invasion-fears-mount-rcna12691"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/biden-to-host-first-2022-news-conference-as-agenda-stalls-russia-tensions-mount-11642600803?mod=hp_lead_pos5"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/biden-defends-first-year-record-overpromise-outperformed"
+        ]
+    }
+}

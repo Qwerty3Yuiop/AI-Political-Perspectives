@@ -1,0 +1,15 @@
+{
+    "headline": "New York Times Report Alleges Ny Podiatrist Helped Trump Avoid Vietnam War",
+    "summary": "A New York Times report alleges that a podiatrist in Queens, NY helped President Trump avoid the Vietnam War by signing off on a fake bone spur diagnosis as a favor to Trump's father, Fred Trump, who owned the doctor's office building. The article has come under some scrutiny from right-leaning publications and media personalities who have criticized its lack of corroborating evidence, particularly since the podiatrist in question is deceased.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2018/12/26/us/politics/trump-vietnam-draft-exemption.html?action=click&module=Top%20Stories&pgtype=Homepage"
+        ],
+        "center": [
+            "https://thehill.com/homenews/administration/422854-daughters-of-queens-podiatrist-and-fred-trump-tenant-say-father"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/new-york-times-tracks-down-anti-trump-children-of-long-deceased-doctor"
+        ]
+    }
+}

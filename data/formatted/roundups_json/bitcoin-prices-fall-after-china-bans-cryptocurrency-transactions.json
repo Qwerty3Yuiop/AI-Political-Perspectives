@@ -1,0 +1,14 @@
+{
+    "headline": "Bitcoin Prices Fall After China Bans Cryptocurrency Transactions",
+    "summary": "Prices of popular cryptocurrencies like Bitcoin and Ethereum dropped on Friday after China\u2019s central bank banned all cryptocurrency transactions. In addition to ajoint statementby 11 Chinese government agencies against \u201cillegal\u201d cryptocurrency mining, the People\u2019s Bank of Chinasaidvirtual currency services like trading, order matching, token issuance, derivatives and overseas currency exchanges were illegal. The change comes amidst a debt crisis atEvergrande, one of China\u2019s largest property developers, which some investors worry could be China\u2019s \u201cLehman Brothers moment.\u201dCoverage was mostly balanced on all sides and more common in center-rated and business-focused outlets.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/09/24/business/china-cryptocurrency-bitcoin.html",
+            "https://www.cnbc.com/2021/09/24/china-central-bank-vows-harsh-crackdown-on-cryptocurrency-industry.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.washingtonexaminer.com/news/china-bans-bitcoin-cryptocurrency-transactions-illegal"
+        ]
+    }
+}

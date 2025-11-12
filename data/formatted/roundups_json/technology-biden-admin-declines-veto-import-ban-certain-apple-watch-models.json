@@ -1,0 +1,15 @@
+{
+    "headline": "Technology Biden Admin Declines Veto Import Ban Certain Apple Watch Models",
+    "summary": "The Biden Administration opted not to intervene in a patent dispute pertaining to tech-giant Apple.For Context:In October, the U.S. International Trade Commission ruled that Apple infringed on patents held by Masimo in the creation of select models of its Apple Watch product, issuing an import ban on the Apple Watch Series 9 and Ultra 2 internet-connected watch. In a lawsuit, Masimo accused Apple of poaching employees and stealing technology pertaining to a blood oxygen tracker.Details:The Biden Administration had the opportunity to intervene and potentially veto the ban, but declined to do so. The ban officially went into effect on December 26. Apple is expected to appeal the ban.Key Quotes:The Hill (Center bias)published a statement from Apple expressing that the company \u201cstrongly disagrees with the order and is pursuing a range of legal and technical options to ensure that Apple Watch is available to customers.\u201dHow the Media Covered It:Outlets across the spectrum covered the story, highlighting the timing of the ban coinciding with the holiday shopping season and noting a dip in Apple\u2019s stock price following the development. Reporting on potential earnings lost, theAssociated Press (Lean Left bias)downplayed the potential economic impact, determining the loss would be a \u201crelative drop in the bucket for Apple.\u201d Meanwhile, theWashington Examiner (Lean Right bias)sounded the alarm, with its homepage headline for the article reading, \u201cWatch this space: Biden refuses to bail Apple out over ticking time bomb.\u201d",
+    "story": {
+        "left": [
+            "https://apnews.com/article/apple-watch-sales-suspension-tech-patent-dispute-eeca53b3f8e095e8bcf1be81aa0cee5f"
+        ],
+        "center": [
+            "https://thehill.com/homenews/administration/4377233-biden-admin-declines-to-veto-ban-on-certain-apple-watch-imports/"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/technology/white-house-biden-apple-watch-ban-veto-decision"
+        ]
+    }
+}

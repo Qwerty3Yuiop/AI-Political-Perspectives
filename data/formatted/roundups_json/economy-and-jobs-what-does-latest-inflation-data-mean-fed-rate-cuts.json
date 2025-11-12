@@ -1,0 +1,15 @@
+{
+    "headline": "Economy And Jobs What Does Latest Inflation Data Mean Fed Rate Cuts",
+    "summary": "The Federal Reserve is expected to cut rates from a 23-year high at its meeting on September 17-18.How big will the cut be?The Data:The Labor Department said the Producer Price Index rose 0.2% in July-August. The overall Consumer Price Index rose 2.5% in August from last year. It was 2.9% in July.\u00a0Core wholesale prices, which exclude energy and food prices, moved up 0.3% from July.\u00a0The numbers suggest inflation is receding, and the Fed is getting closer to reaching their goal of bringing inflation down to 2%.The Fed Cuts:Accordingto theWall Street Journal (Center bias), \"Traders now think it is much less likely that the Federal Reserve will cut rates by 0.5 percentage point next week, following Wednesday\u2019s hotter-than-expected\u00a0core monthly inflation\u00a0reading.\u00a0Interest-rate futures suggest the chance of a larger-than-normal rate cut next week is\u00a0now around 15%, according to CME Group, down from 34% Tuesday.\"How the Media Covered It:Outlets on the right were more likely to highlight how the data may lead to a smaller rate cut due to underlying pressures, while\u00a0outlets on the leftfocusedon a rate cut happening due to improving inflation.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2024/09/11/business/cpi-inflation-august.html"
+        ],
+        "center": [
+            "https://www.forbes.com/sites/chrisgunster/2024/09/11/why-cpi-shouldnt-be-the-only-inflation-data-investors-watch/"
+        ],
+        "right": [
+            "https://nypost.com/2024/09/12/business/wholesale-price-figure-rises-unexpectedly-in-august/"
+        ]
+    }
+}

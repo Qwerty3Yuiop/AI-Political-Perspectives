@@ -1,0 +1,15 @@
+{
+    "headline": "Us Census Trump Pushes New Census Excluding Unauthorized Immigrants",
+    "summary": "President Donald Trump is directing the Department of Commerce to initiate a new census that excludes unauthorized immigrants.The Details: PresidentTrump announced Thursdaythat he instructed the Department of Commerce to begin work on a new census that excludes unauthorized immigrants. The census would use data from the 2024 presidential election, marking a departure from traditional census methodologies. It could potentially shift political power, particularly in states with large immigrant populations. The move is surrounded by legal, logistical, and constitutional questions, with historical precedents and recent court decisions casting uncertainty on future implementation.For Context: The census traditionally follows adecennial cycle, counting every person residing in the US, regardless ofimmigrationstatus. This count determines the distribution of 435 House seats among the 50 states. In Texas, Republicans have backed aplan supported by Trumpto redistrict based on new census data before the end of the decade, which could reportedlyresult in five additional Republican seatsin Congress.How the Media Covered It:Newsweek (Center bias), focused on the potential political implications of the move, particularly the potential shift in political power to states with smaller immigrant populations. They also highlighted legal and logistical challenges that surround the implementation of this directive.Fox News (Right)emphasized Trump's remarks and the constitutional basis for counting the entire population, including unauthorized immigrants, for representation purposes. The article also mentioned Trump's previous attempt to exclude undocumented immigrants from the census count, which was blocked in the courts.Associated Press (Lean Left), meanwhile, centered coverage on the potential legal challenges and logistical difficulties of changing the census, as well as the potential impact on the distribution of federal funds. \u00a0AP also noted the Supreme Court's 2019 decision to block the addition of a citizenship question to the census.Revised by the AllSides staff (of humans) after a first draft from our custom AI.Learn more.Support our mission.Suggest an improvement to this summary.",
+    "story": {
+        "left": [
+            "https://apnews.com/article/trump-census-immigration-illegal-165fe1c52cfc930521bc7e65d4b1ff41"
+        ],
+        "center": [
+            "https://www.newsweek.com/trump-census-order-excludes-undocumented-2024-election-data-2110145"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/trump-orders-work-new-census-says-people-us-illegally-will-not-counted"
+        ]
+    }
+}

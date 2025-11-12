@@ -1,0 +1,14 @@
+{
+    "headline": "Record Number Job Openings Us Companies Struggling Hire",
+    "summary": "The Labor Department announced Tuesday that there were9.3 million\u00a0job openings in the U.S., the highest amount since the\u00a0Bureau of Labor Statistics\u00a0started tracking the data in 2000.\u00a0This beat widely-cited economists'\u00a0predictions of 8.3 million, suggesting that demand for employees is surging as the economy recovers from the COVID-19 pandemic. Despite this, there have beenwidespread reports of businesses struggling to fill openings, and May was the second straight monththat U.S. hiring fell short of expectations.The economic recovery, especially as measured by rates of hiring and unemployment, has been covered frequently across the spectrum. Coverage from right-rated sources tended to blame increased unemployment assistance for purportedly discouraging people from returning to work; some voices also criticized the Biden administration's purportedly over-generous stance on unemployment\u00a0benefits. Conversely, some reports from left-rated outlets\u00a0highlighted incentives companies are using to attract new employees; others pointed to workplace safety concerns and struggles to find child care arrangements as possible reasons for public reluctance to return to work.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/06/08/economy/jobs-openings-april/index.html",
+            "https://www.factcheck.org/2021/06/is-unemployment-bonus-keeping-workers-on-sideline/"
+        ],
+        "center": [],
+        "right": [
+            "https://www.washingtonexaminer.com/news/job-openings-hit-20-year-high-9.3-million-opportunities-labor-shortage"
+        ]
+    }
+}

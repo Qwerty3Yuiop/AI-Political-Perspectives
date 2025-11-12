@@ -1,0 +1,15 @@
+{
+    "headline": "Us Economy Shrank 2nd Consecutive Quarter",
+    "summary": "The U.S. economyshrank for the second consecutive quarter, meeting the common definition of an economy in recession.The Bureau of Economic Analysis (BEA)reportedThursday thatU.S. gross domestic product (GDP) shrank 0.9% between April and June, aftercontracting 1.6%in the first quarter of 2022. Economists surveyed across the spectrum expected slight GDP growth in Q2, between 0.5% and 1%. The back-to-back quarters of economic decline are in contrast to the6.9% GDP growthexperienced in the final quarter of 2021.Many look to the National Bureau of Economic Research (NBER)to officially declare a recession. NBER defines a recession as \"a significant decline in economic activity, spread across the economy for more than a few months,\" but it typically doesn't issue a recession declaration until months after the data has come out. The Biden administrationhas been adamantthat the U.S. economy is healthy despite the contractions and high inflation, and arecent White House blog postemphasized how NBER will consider other factors in addition to GDP when analyzing a possible recession.The GDP data was thetop story across the political spectrumThursday, with most framing it in the context of ongoing recession fears. One Fox Business (Lean Right bias)reportsaid the data indicated\u00a0a \"technical recession\" and referred to NBER as the \"semi-official\" arbiter of recessions. Reports from CNN Business and Wall Street Journal instead called NBER the \"official\" recession arbiter.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2022/07/28/economy/us-economy-second-quarter-gdp/index.html"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/us-q2-gdp-growth-economy-11658981184?mod=hp_lead_pos2"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/economy/economy-falls-second-quarter-indicating-recession"
+        ]
+    }
+}

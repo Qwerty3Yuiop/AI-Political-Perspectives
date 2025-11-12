@@ -1,0 +1,14 @@
+{
+    "headline": "Banking And Finance Fed Raises Interest Rates Highest Level 15 Years",
+    "summary": "The Federal Reserve on Wednesday\u00a0raised its benchmark interest rate half a point to the highest level in 15 years.For Context:It's the Fed's seventh interest rate hike of the year, but a smaller one than the .75 percentage point increases agreed on at each of its\u00a0last four meetings. The benchmark federal funds interest rate now has\u00a0a range of 4.25% to 4.5%,\u00a0the highest it's been since December 2007.Key Quotes:\"Inflation data received to far for October and November show a welcome reduction in the monthly pace of price increases,\" Fed Chair Jerome Powell\u00a0said at his post-meeting news conference. \"But it will take substantially more evidence to have confidence that inflation is on a sustained downward\" trajectory.How the Media Covered It:The news was a top story from major news sources across the political spectrum Wednesday afternoon. Some left-rated sources framed the news more positively than center- and right-rated sources did. CNN Business called\u00a0the move \"a smaller increase than in recent months and an acknowledgment that inflation is finally easing.\" Conversely, CNBC said the move shows \"that the fight against inflation is not over despite some promising signs lately.\" Fox Business reported that the Fed is \"slowing its campaign to cool the economy amid early signs that stubbornly high inflation is finally starting to ease,\" and that the half-point hike is \"still large by historical standards\" despite being smaller than other recent ones.",
+    "story": {
+        "left": [
+            "https://www.cnbc.com/2022/12/14/fed-rate-decision-december-2022.html",
+            "https://www.cnn.com/2022/12/14/economy/federal-reserve-december-meeting-final"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxbusiness.com/economy/fed-slows-interest-rate-increases-fifty-basis-point-hike-signals-more-come"
+        ]
+    }
+}

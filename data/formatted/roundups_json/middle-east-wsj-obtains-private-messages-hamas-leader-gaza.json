@@ -1,0 +1,15 @@
+{
+    "headline": "Middle East Wsj Obtains Private Messages Hamas Leader Gaza",
+    "summary": "The Wall Street Journal (Center bias)reviewed \u201cdozens of messages\u201d from Hamas leader Yahya Sinwar to mediators and allies, casting a light on Hamas\u2019 decision-making.Key Quotes:In one message, Sinwar reportedly told Hamas negotiators, \u201cWe have the Israelis right where we want them.\u201d In another message, the Hamas leader said civilian deaths in historical national-liberation conflicts were \u201cnecessary sacrifices.\u201d Discussing a 2018 border protest that resulted in Israeli troops firing on Palestinians, Sinwar told an Italian journalist, \u201cWe make the headlines only with blood.\u201dFor Context:Much of the global public discourse surrounding the war in Gaza has centered on Hamas\u2019 operations within and below civilian areas \u2014 what Israel labels as using \u201chuman shields.\u201d This has not deterred Israel from attacking Hamas, however, resulting in high numbers of reported civilian deaths and prompting global protests. On Tuesday, a senior Hamas official said Hamas accepts aU.N. resolutionbacking a temporaryceasefire plan approved by Israel and the U.S.How the Media Covered It:The Journal did not appear to publish the original messages, but it said Sinwar\u2019s writings reveal \u201ca calculation that more fighting\u2014and more Palestinian civilian deaths\u2014work to his advantage.\u201d Echoing the Journal, coverage often relied on interpretations of the intent behind Sinwar\u2019s messages; for instance, taking his statement about civilian deaths in other conflicts to mean that he saw Palestinian deaths as justified. Some, likeThe Daily Caller (Right bias),took it further \u2014 framing the WSJ report as factually revealing that Sinwar\u2019s \u201cultimate goal\u201d was to \u201clet as many Palestinians die as possible.\u201d",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2024/06/11/middleeast/sinwar-hamas-israel-ceasefire-hostage-talks-intl/index.html"
+        ],
+        "center": [
+            "https://www.wsj.com/world/middle-east/gaza-chiefs-brutal-calculation-civilian-bloodshed-will-help-hamas-626720e7?mod=hp_lead_pos1"
+        ],
+        "right": [
+            "https://dailycaller.com/2024/06/11/messages-reveal-hamas-leaders-ultimate-goal-war-against-israel-let-many-palestinians-die-possible/"
+        ]
+    }
+}

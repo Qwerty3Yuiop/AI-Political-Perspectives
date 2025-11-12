@@ -1,0 +1,14 @@
+{
+    "headline": "Gas Prices Reach 7 Year High",
+    "summary": "Theprice of gasoline in the United Statesis up 58% from this time last year and is at its highest point since 2014, according to AAA. As of Thursday, the average price of a gallon of gas was $3.04. Prices were already on the rise when the Colonial Pipeline, which transports roughly 45% of the\u00a0East Coast's fuel supply, shut down for roughly a week after being hacked earlier this month. The shutdown led tosignificant\u00a0gas shortages across over a dozen\u00a0mid-Atlantic and southeastern states.The news was covered across the spectrum, but was highlighted more prominently by right-rated sources. Some reports from right-rated outlets suggested that President Biden's clean energy agenda deserved blame for the spike in prices, and focused on former President Donald Trump's criticisms of the situation. Coverage from left- and center-rated sources tended to frame the price rise as a\u00a0consequence of the pipeline hack. Outlets on all sides connected the high prices to Memorial Day weekend and the fact that many Americans will be traveling.",
+    "story": {
+        "left": [
+            "https://www.nydailynews.com/news/national/ny-gas-memorial-day-prices-expensive-20210528-oces6j6cgrewrfiehhumkzhhze-story.html",
+            "https://www.cnbc.com/2021/05/27/memorial-day-gas-prices-are-the-highest-in-7-years-and-could-stay-high.html"
+        ],
+        "center": [],
+        "right": [
+            "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/"
+        ]
+    }
+}

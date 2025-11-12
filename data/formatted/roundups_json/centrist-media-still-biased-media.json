@@ -1,0 +1,14 @@
+{
+    "headline": "Centrist Media Still Biased Media",
+    "summary": "A Washington Post columnist writes about how media bias towards the center crowds out political views on the left and right, while a New York Times reporter comes up with his own 6 forms of media bias. AllSides writes about how a Center rating doesn't necessarily mean unbiased.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2019/01/31/opinion/media-bias-howard-schultz.html",
+            "https://www.washingtonpost.com/lifestyle/style/the-media-feel-safest-in-the-middle-lane-just-ask-jeff-flake-john-kasich-and-howard-schultz/2019/01/30/31574630-2406-11e9-ad53-824486280311_story.html?utm_term=.df845809cd25"
+        ],
+        "center": [
+            "https://www.allsides.com/blog/center-media-bias-rating-doesnt-mean-what-you-think-it-means"
+        ],
+        "right": []
+    }
+}

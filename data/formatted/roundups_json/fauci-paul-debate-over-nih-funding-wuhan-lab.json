@@ -1,0 +1,15 @@
+{
+    "headline": "Fauci Paul Debate Over Nih Funding Wuhan Lab",
+    "summary": "During a Senate Health Committee hearing\u00a0on Tuesday, Sen. Rand Paul (R-Ky.) debated Dr. Anthony Fauci on the\u00a0National Institutes of Health's (NIH) funding of\u00a0research at a lab in Wuhan, China. In May, Paul\u00a0claimed that\u00a0the NIH fundedgain-of-function researchat the Wuhan Institute of Virology (WIV); then, Fauci responded that the NIH\u00a0\u201chas not ever and does not now fund gain-of-function research in the Wuhan Institute of Virology.\u201d On Tuesday, Paul repeated his claims,pointing to\u00a0an academic research paper by WIV\u00a0published in 2017that cited the NIH as a resource, and implying that Fauci lied to Congress in May.\u00a0Fauci responded Tuesday that the\u00a0paper was evaluated and judged by staff as \"not being gain-of-function,\"\u00a0saying \u201cI totally resent the lie you are now propagating.\"The story was covered by outlets across the political spectrum, who focused on the claims by both Paul and Fauci. Right-rated outlets tended to frame Paul as being in the right; left-rated outlets often did the same for Dr. Fauci.",
+    "story": {
+        "left": [
+            "https://www.theguardian.com/us-news/2021/jul/20/anthony-fauci-rand-paul-coronavirus-research"
+        ],
+        "center": [
+            "https://thehill.com/policy/healthcare/563874-fauci-paul-doesnt-know-what-hes-talking-about-and-i-want-to-say-that"
+        ],
+        "right": [
+            "https://www.nationalreview.com/news/rand-paul-accuses-fauci-of-lying-to-congress-about-gain-of-function-research-funding/"
+        ]
+    }
+}

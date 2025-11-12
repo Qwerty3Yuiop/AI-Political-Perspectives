@@ -1,0 +1,15 @@
+{
+    "headline": "Chernobyl Nuclear Plant Loses Power",
+    "summary": "According to the State Nuclear Regulatory Inspectorate of Ukraine, the Chernobyl nuclear site has lost power.Emergency diesel generators will provide power to critical safety systems at the site\u00a0for up to 48 hours, but at present, repair\u00a0to\u00a0the\u00a0transmission lines is not possible due to continued combat operations in the area. There are approximately 20,000 spent fuel assemblies at Chernobyl that require constant cooling, which is provided by electricity.\u00a0 The fear is that the temperature in the holding pools will increase, prompting the release of radioactive substances into the environment. The International Atomic Energy Association, however, says there is no critical impact on safety, and that the amount of cooling water at Chernobyl is \"sufficient for effective heat removal without need for electrical supply.\"Russian forcesseized the Chernobyl siteon February 24, andcaptured Zaporizhzhia,\u00a0Europe's biggest\u00a0nuclear plant, on March 4.",
+    "story": {
+        "left": [
+            "https://www.cbsnews.com/news/ukraine-chernobyl-nuclear-plant-russia-power-outage/"
+        ],
+        "center": [
+            "https://www.reuters.com/world/iaea-says-no-critical-impact-safety-after-power-loss-chernobyl-2022-03-09/"
+        ],
+        "right": [
+            "https://www.foxnews.com/world/ukraine-chernobyl-electricity-off-grid-russians-radioactive-contamination-nuclear-fuel"
+        ]
+    }
+}

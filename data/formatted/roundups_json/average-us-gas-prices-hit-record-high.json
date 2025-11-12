@@ -1,0 +1,14 @@
+{
+    "headline": "Average Us Gas Prices Hit Record High",
+    "summary": "On Tuesday, gas prices in the U.S.\u00a0hit a new national record as global crude oil prices surge following Russia's invasion of Ukraine.The average cost of a gallon of gas is now $4.17 \u2014the highest ever recorded, according to AAA\u2014 and the price\u00a0rise may continue.\u00a0 Russia's war on Ukraine has raised global concerns about relying on gas from Russia, which as of 2020, was the world's third-largest producer of petroleum.\u00a0Russia mostly exports petroleum to Europe, but also accounted forabout 3% of U.S. oil imports in 2021.The U.S. is expected to announce a ban on Russian energy imports Tuesday, which experts say would probably have a minimal effort on\u00a0domestic or global gas prices; if other major countries also ban Russian oil, the global market impact would be greater.Gas prices have already been climbing for monthsas supply struggles to keep up with the global demand for oil, which has been rapidly rising fromearly COVID-19 pandemic lows.The record-high gas prices were covered prominently across the political spectrum. Left- and center-rated sources framed the recent rise more as a product of the Russia-Ukraine conflict; right-rated sources sometimes painted U.S. limits on fossil fuel drilling as a cause for the high prices.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2022/03/07/energy/record-gas-price/index.html",
+            "https://www.cnbc.com/2022/03/07/gas-prices-are-heading-to-a-new-all-time-record.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.theepochtimes.com/us-gas-prices-set-new-national-record_4322355.html"
+        ]
+    }
+}

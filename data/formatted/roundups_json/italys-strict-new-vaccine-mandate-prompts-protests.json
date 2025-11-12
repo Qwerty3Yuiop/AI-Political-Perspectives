@@ -1,0 +1,15 @@
+{
+    "headline": "Italys Strict New Vaccine Mandate Prompts Protests",
+    "summary": "Italy's COVID-19 vaccine mandate,\u00a0believed to be among the strictest government COVID-19 mandates in the world,\u00a0has been met by protests. The newest rule\u00a0requires\u00a0all private and public employees in Italy to show proof of vaccination, a negative test result,\u00a0or recovery from COVID-19 in the past six months with what's known as a \"Green Pass.\"\u00a0Workers could be fined\u00a0up to 1,500 euros, or roughly $1,750,\u00a0for failing to comply with the new rule.\u00a0Hundreds of port workers in the northeastern city of Trieste protested the rule over the weekend, and hundreds more attended an anti-mandate demonstration in Florence. Last week, thousands of peoplemarched in Rome earlier this month in opposition of government mandates.The news was covered across the spectrum, but given less attention by U.S. media than domestic issues. Reports on all sides highlighted how people are upset that the government won't cover the cost of testing swabs, which unvaccinated people will need to use frequently to avoid fines. Right-rated outlets tended to offer more quotes from people protesting the mandate. Some coverage from left-rated sources framed anti-mandate protests in Italy as a product of\u00a0conspiracy theories.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html"
+        ],
+        "center": [
+            "https://qz.com/2074464/italys-new-vaccine-mandate-prompts-labor-strikes-protests/"
+        ],
+        "right": [
+            "https://www.theepochtimes.com/italy-mandates-all-workers-to-show-covid-19-green-pass-prompting-protests_4050844.html?utm_source=partner&utm_campaign=allsides"
+        ]
+    }
+}

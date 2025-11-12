@@ -56,6 +56,35 @@ def extract_summary_section(html_text: str) -> tuple[str, bool]:
 	return (html_text[-8192:], False)
 
 
+def truncate_after_more_headline_roundups(section_text: str) -> str:
+	"""Truncate section_text at the first occurrence of 'More headline roundups'.
+
+	This is case-insensitive and will remove that marker and everything after it.
+	If the marker isn't found, return section_text unchanged. This helps make
+	re-running the script idempotent (already-truncated files won't change).
+	"""
+	marker = "More headline roundups"
+	# case-insensitive search
+	idx = section_text.lower().find(marker.lower())
+	if idx == -1:
+		return section_text
+
+	# We want to remove the marker and everything after it. However, if the
+	# marker appears inside an HTML tag or script accidentally, keep a small
+	# safety: try to find the start of a surrounding block (e.g., '<h' or '<div')
+	# within a short window before the marker, otherwise cut at idx.
+	window_start = max(0, idx - 120)
+	tag_pos = section_text.rfind('<', window_start, idx)
+	cut_pos = idx
+	if tag_pos != -1:
+		# If the found '<' starts an element like <h2 ...> or <div ...>, prefer cutting
+		# at that tag to avoid leaving an orphaned opening tag. But ensure we don't cut
+		# too much (only within the small window).
+		cut_pos = tag_pos
+
+	return section_text[:cut_pos].rstrip()
+
+
 def _atomic_write(path: Path, text: str) -> None:
 	"""Write text to path atomically by writing to a temp file then renaming."""
 	dirpath = path.parent
@@ -117,6 +146,12 @@ def process_file_inplace(input_path: Path, review_dir: Path, valid_links_path: P
 	"""
 	html = input_path.read_text(encoding='utf-8', errors='replace')
 	section, found = extract_summary_section(html)
+
+	# Truncate any content after the "More headline roundups" marker to keep only
+	# the desired bottom portion. This also makes the operation safe to run
+	# multiple times (idempotent) since the helper is a no-op when marker is
+	# already absent.
+	section = truncate_after_more_headline_roundups(section)
 
 	if found:
 		if dry_run:

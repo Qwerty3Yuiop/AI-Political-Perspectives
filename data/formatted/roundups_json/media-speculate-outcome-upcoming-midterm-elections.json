@@ -1,0 +1,15 @@
+{
+    "headline": "Media Speculate Outcome Upcoming Midterm Elections",
+    "summary": "With the Nov. 6 midterm elections quickly approaching, media outlets weigh in on the many factors that could influence outcomes across the country.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2018/11/01/us/politics/republicans-trump-house.html?action=click&module=Top%20Stories&pgtype=Homepage"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/georgia-house-race-shows-educated-women-are-midterm-prize-1540899000"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/opinion/op-eds/a-wave-or-a-whimper-heres-why-2018-doesnt-feel-exactly-like-the-last-few-wave-midterms"
+        ]
+    }
+}

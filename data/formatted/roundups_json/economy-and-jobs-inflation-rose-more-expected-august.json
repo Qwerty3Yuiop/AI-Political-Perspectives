@@ -1,0 +1,15 @@
+{
+    "headline": "Economy And Jobs Inflation Rose More Expected August",
+    "summary": "Inflation rose 0.1% in August from the month beforeand 8.3% over the previous year,accordingto the Bureau of Labor Statistics.Economists surveyed by Bloomberg expected a slower\u00a08.1% annual growth rate for the Consumer Price Index (CPI), and Dow Jones economistsexpected monthly inflation to fall 0.1%. The 8.3% annual rate was down from8.5% in Julyand9.1% in June, which was a 40-year high.Energy prices fell for the second straight month\u00a0but remain 23.8% higher than a year ago. Food prices rose 0.8% in August, their slowest monthly growth rate since December 2021, but remain\u00a0up 11.4% from last year. All items, excluding the more volatile food and energy indexes,are up 6.3% from last yearand rose 0.6% in August from the month before.News sources across the spectrum highlighted the inflation data as their top story Tuesday morning. Sources regardless of biascontinue to display inconsistency in highlighting\u00a0monthly versus\u00a0annual inflationin headlines, and many fail to explain the distinction to their readers. NBC News's headline said inflation \"fell slightly to 8.3%,\" while Fox Business's said \"inflation rose 8.3%\" and CNBC's said \"inflation rose 0.1%.\" Left- and center-rated sources focused more on falling gas prices. Right-rated sources focused more on high food prices and how inflation rose more than economists predicted.",
+    "story": {
+        "left": [
+            "https://www.nbcnews.com/business/economy/inflation-august-2022-consumer-prices-of-food-gas-rcna47291"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/us-inflation-august-2022-consumer-price-index-11663017630"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/economy/inflation-rose-august-prices-gains-slow-remain-near-record-high"
+        ]
+    }
+}

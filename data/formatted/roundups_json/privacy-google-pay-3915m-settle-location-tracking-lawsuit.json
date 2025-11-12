@@ -1,0 +1,15 @@
+{
+    "headline": "Privacy Google Pay 3915m Settle Location Tracking Lawsuit",
+    "summary": "Google hasagreed to pay\u00a0$391.5 million to 40 statesto\u00a0settle a probe of how the company\u00a0tracked users\u2019 locations.Key Quotes:\"For years Google has prioritized profit over their users' privacy,\" Oregon Attorney General Ellen Rosenblum said in a release. \"They have been crafty and deceptive. Consumers thought they had turned off their location tracking features on Google, but the company continued to secretly record their movements and use that information for advertisers.\" Google Policy Communications Manager Jos\u00e9 Casta\u00f1eda said, \"Consistent with improvements we've made in recent years, we have settled this investigation which was based on outdated product policies that we changed years ago.\"For Context:The settlement is the largest-ever for a U.S. consumer privacy case brought by states.\u00a0A2018\u00a0Associated Press investigationthat sparked the lawsuit showed that Google collected\u00a0data from users even if they had turned off their location history. Google had said it informed users that location data would still be used to improve user experience even when location history was turned off.\u00a0In the U.S. and around the world, thebusiness practices of Googleand other Big Tech companies are a growing focus of government lawsuits.How the Media Covered it:The story was covered more prominently by left- and center-rated sources, but the coverage itself was similar across the political spectrum.",
+    "story": {
+        "left": [
+            "https://apnews.com/article/google-privacy-settlement-location-data-57da4f0d3ae5d69b14f4b284dd084cca"
+        ],
+        "center": [
+            "https://www.cnet.com/news/privacy/google-agrees-to-391-5-million-privacy-settlement-with-state-ags/"
+        ],
+        "right": [
+            "https://www.newsmax.com/finance/streettalk/google-location-tracking-lawsuit-400-million-settlement/2022/11/14/id/1096270/"
+        ]
+    }
+}

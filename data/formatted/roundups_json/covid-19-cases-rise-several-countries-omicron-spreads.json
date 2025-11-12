@@ -1,0 +1,15 @@
+{
+    "headline": "Covid 19 Cases Rise Several Countries Omicron Spreads",
+    "summary": "The U.S., theU.K.andother countrieshave seen spikes in COVID-19 cases over the past week.U.S. states with rising cases\u00a0included New York and New Jersey, whereCDC datasaid\u00a0themilderbutmore vaccine resistantOmicron variant is spreading. While some highly-vaccinated states saw significant outbreaks, a Forbes (Center) report\u00a0said, they still fared better on hospitalizations and deaths compared to states with lower vaccination rates. The coverage came as U.S. COVID-19 deaths topped 800,000 andworldwide deathsreached 5.3 million. The news prompted many public health officials andbusiness leadersto consider re-implementing mask mandates and other measures.Center and left-rated outlets like NPR (Center) and The New York Times (Lean Left) were more likely to feature this story on homepages. Coverage from the left was more alarmed by the surge, with CNN (Left) describing COVID-19 as \u201craging across the U.S.\u201d",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/live/2021/12/16/world/covid-omicron-vaccines#amid-worries-about-omicron-virus-cases-are-jumping-across-the-united-states"
+        ],
+        "center": [
+            "https://www.forbes.com/sites/roberthart/2021/12/16/covid-surges-in-4-of-5-most-vaccinated-states-but-shots-help-keep-hospitalization-deaths-down/?sh=f49904136a0f"
+        ],
+        "right": [
+            "https://nypost.com/2021/12/16/bill-de-blasio-ramps-up-city-covid-testing-over-increase-in-cases/"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Whistleblower Says Facebook Misleading Public Has Misaligned Priorities",
+    "summary": "A data scientist and former Facebook employee accused the Big Tech company of privatizing profit over the public goodin an interview with 60 Minutes Sunday night.\u00a0Frances Haugen, who left the Facebook in May after it disbanded her unit that was assessing misinformation on the platform, said that \"Facebook, over and over again, chose to optimize for its own interests, like making more money.\" She added that\u00a0\"No one at Facebook is malevolent, but the incentives are misaligned.\" Haugen is scheduled to testify in Congress Tuesday. The interview followed a series of reports by theWall Street Journal (Center bias)detailing Facebook'snegative impact on teen mental health,neglect towards harmful\u00a0issues with its algorithmsand other scandals,\u00a0for which a then-unidentified Haugen provided internal documents. Facebook's head of global safetytestified before a Senate subcommittee last weekand was questioned about the Journal's reports.The story was covered similarly across the spectrum. Some headlines from left-rated sources highlighted Haugen's mention of Facebook's role in\u00a0the Jan. 6 Capitol riot.",
+    "story": {
+        "left": [
+            "https://www.cbsnews.com/news/facebook-whistleblower-frances-haugen-misinformation-public-60-minutes-2021-10-03/"
+        ],
+        "center": [
+            "https://heavy.com/news/frances-haugen/"
+        ],
+        "right": [
+            "https://dailycaller.com/2021/10/04/facebook-whistleblower-safety-jan-6-riots-misinformation-francis-haugen/"
+        ]
+    }
+}

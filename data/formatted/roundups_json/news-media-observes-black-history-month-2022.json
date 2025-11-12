@@ -1,0 +1,14 @@
+{
+    "headline": "News Media Observes Black History Month 2022",
+    "summary": "Outlets across the spectrum published news, analysis and opinion articles about Black History Month on Tuesday.At least 14 historically black colleges and universities received bomb threats on Tuesday. Education Secretary Miguel Cardonareacted on Twitter, saying, \u201cThreats of violence will not be tolerated, period.\u201d As the bomb threats\u00a0became the lead story around Black History Month, other coverage focused onnew state lawsregulating how teachers discuss racism. Additionally, prominent black commentatorWhoopi Goldbergmade top headlines when she apologized for saying that the Holocaust was aboutethnicity, not race. The start of Black History Month also coincided with theLunar New Year, a multi-day celebration in several Asian countries and parts of the U.S.Several outlets across the spectrum published list articles, such as \u201cCelebrate Black History Month with these 5 newish books\u201d inThe Seattle Times (Center). Some of these exhibited bias in story choice; for instance, aFox News (Right)article began with atweetcelebrating prominent black conservatives. Some coverage from the left criticized racial education laws passed by Republican-controlled state legislatures.",
+    "story": {
+        "left": [
+            "https://www.axios.com/hbcu-bomb-threats-black-history-month-163b6c3c-5d97-4d8c-9b61-1f72e5301f92.html",
+            "https://www.bet.com/article/6e1e5l/10-black-history-facts-often-hidden-from-schools"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxnews.com/lifestyle/black-history-month-facts-10-things"
+        ]
+    }
+}

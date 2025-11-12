@@ -1,0 +1,15 @@
+{
+    "headline": "Technology Meta Bans Rt And Other Kremlin Funded Media Outlets",
+    "summary": "Social media giant Meta has bannedRT (Lean Right bias)and other Russian state media outlets, alleging they\u2019ve engaged in covert influence operations online.Recent Context:The move comes after the U.S. State Department accused RT of engaging in \u201cdestabilizing actions abroad\u201d ina reportlast week. On September 5, the U.S. Justice Departmentaccused RT of conducting an influence schemethat involved funding American conservative media pundits who were unknowingly taking Russian money, according to the Department.Previous Context:In March 2022, after Russia\u2019s full-scale invasion of Ukraine, the European Union banned its citizens from accessing RT. A few weeks after that, the Kremlin branded Meta as an \u201cextremist\u201d organization due to what it deemed were unfair changes to its hate speech policy. Meta apps Facebook and Instagram were subsequently banned in Russia.Key Quotes:In a statement, Meta said, \u201cAfter careful consideration, we expanded our ongoing enforcement against Russian state media outlets. Rossiya Segodnya, RT and other related entities are now banned from our apps globally for foreign interference activity.\u201d Kremlin spokesman Dmitry Peskov said, \u201cMeta is discrediting itself with these actions\u2026 This complicates prospects for normalizing our relations with Meta.\u201dHow The Media Covered It:RT prominently noted that \u201cMoscow has called the move an act of information warfare, which exposes America's inability to fairly compete with Russian media.\u201dCNN (Lean Left bias)included context on scheduled Senate testimony from Meta, Microsoft, and Google executives scheduled to take place on Wednesday regarding combatting foreign election interference.",
+    "story": {
+        "left": [
+            "https://edition.cnn.com/2024/09/16/media/meta-bans-rt-russian-state-propaganda-outlets/index.html"
+        ],
+        "center": [
+            "https://www.reuters.com/business/media-telecom/meta-bans-rt-other-russian-state-media-networks-2024-09-17/"
+        ],
+        "right": [
+            "https://rt.com/russia/604155-meta-ban-rt-espionage"
+        ]
+    }
+}

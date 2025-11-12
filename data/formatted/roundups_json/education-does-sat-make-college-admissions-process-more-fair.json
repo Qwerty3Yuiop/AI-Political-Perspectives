@@ -1,0 +1,15 @@
+{
+    "headline": "Education Does Sat Make College Admissions Process More Fair",
+    "summary": "On Thursday,Yale University announced it is reversing its pandemic-era test-optional policyand will again require standardized tests scores to apply. This follows a similar reversal from Dartmouth College, which sparked discussion over the efficacy and fairness of standardized testing.Restoring Meritocracy?A writer in theNew York Post Opinion (Right bias)argued that colleges reinstating standardized tests should be \u201capplauded for restoring a meritocratic measure to the admissions process.\u201d The writer conceded that \u201cthe SAT and ACT should certainly not be immune to scrutiny,\u201d but concluded, \u201coverthrowing a major component of the admissions process in the absence of evidence \u2014 often at the behest of activists \u2014 is no solution.\u201dGaming the System?InCNN Opinion (Left bias),Jill Filipovic (Left bias)determined that \u201cThe SAT does reflect long-standing racial and economic inequalities, but getting rid of it may actually be worse for underprivileged students.\u201d Filipovic argued that the admissions standards for colleges not requiring SAT or ACT scores \u201cmay be even easier for affluent students from more sophisticated families to game.\u201dDemocratize Higher Education?A writer inForbes (Center bias)argued the SAT serves as a \u201cmuch-needed reality check\u201d amid grade inflation and the gaming of the admissions process, helping to \u201clevel the playing field by providing a check on such machinations.\u201d Countering the argument that the SAT and ACT favor students from high-income families, the writer states, \u201cthe SAT was devised precisely because the test-free world was anything but fair,\u201d concluding, \u201cThe SAT and ACT were created to democratize higher education. They still play that role today.\u201d",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2024/02/14/opinions/college-admissions-standardized-testing-policy-filipovic/index.html"
+        ],
+        "center": [
+            "https://www.forbes.com/sites/frederickhess/2024/02/06/dartmouth-reinstates-the-sat-striking-a-blow-for-fairness-and-merit/?sh=7485dd6c5e07"
+        ],
+        "right": [
+            "https://nypost.com/2024/02/05/opinion/dartmouth-is-right-to-bring-back-sats-for-college-admissions/"
+        ]
+    }
+}

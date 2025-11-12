@@ -1,0 +1,15 @@
+{
+    "headline": "Economy And Jobs Has Tipping Gone Too Far",
+    "summary": "This week, writers across the spectrum expressed bearish sentiments toward the current state of North American tipping culture.Tipping Fatigue:An analysis fromCBS News (Lean Left bias)attributed a slowdown in \u201cservice-sector workers in non-restaurant leisure and hospitality jobs\u201d to \u201ctipping fatigue,\u201d which it says has been aggravated by inflation and slowing wage growth. The writer suggested that with the holiday season upon us, those feeling less able to tip non-hospitality workers should focus on those who went above and beyond the most.Cash Is King:An opinion piece for the Canadian publicationThe Globe and Mail (Center bias)suggested people carry cash with them to maintain more autonomy in tipping by being less subject to preset tipping amounts presented when paying by card. The writer said \u201cthe point of cash is not to duck tipping altogether,\u201d but expressed fatigue at being told how much to tip without considering how good the service was.Passing The Burden:An opinion writer forWashington Times (Lean Right bias)said \u201cTipping in America is out of control,\u201d citing a recent experience at Dunkin\u2019 where the machine suggested they tip 15%-25% for purchasing a French cruller donut. The writer said service staff at restaurants are \u201cof course, different\u201d as they work hard to craft an experience for the patron, but argued businesses should pay workers higher wages instead of passing the burden on to customers.",
+    "story": {
+        "left": [
+            "https://www.cbsnews.com/news/holiday-tipping-guide-housekeeper-child-care-provider/"
+        ],
+        "center": [
+            "https://www.theglobeandmail.com/investing/personal-finance/household-finances/article-a-neat-trick-to-push-back-on-tipping-without-looking-cheap/"
+        ],
+        "right": [
+            "https://www.washingtontimes.com/news/2023/dec/20/tipping-in-america-is-out-of-control-and-weve-got-/"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "California Population Shrinks 2nd Straight Year",
+    "summary": "For the second year in a row, California's population shrank due to declining birth rates, a higher number of deaths attributed to COVID-19, and the decline in international immigration\u00a0due to travel restrictions and visa limitations.The state's population is now 39,185,605 - still the largest state population in the country, but down by 117,552 people in 2021.\u00a0 Texas is the second-largest state by\u00a0population, with 29.5 million people.Some critics, especially on the political right, blame the decline on Democratic policies that they argue have led to increases in crime and homelessness.\u00a0 Some state officials and reports from left-rated news sources, on the other hand, point to the growing number of families that have moved inland since they can work remotely and enjoy more open space and more affordable housing.",
+    "story": {
+        "left": [
+            "https://www.latimes.com/california/story/2022-05-02/california-population-decline-inland-empire-growing"
+        ],
+        "center": [
+            "https://www.thecalifornian.com/story/news/state/2022/05/02/california-population-declines-fueled-covid-falling-birth-rate/9620192002/"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/economy/california-population-shrink-second-consecutive-year-pandemic"
+        ]
+    }
+}

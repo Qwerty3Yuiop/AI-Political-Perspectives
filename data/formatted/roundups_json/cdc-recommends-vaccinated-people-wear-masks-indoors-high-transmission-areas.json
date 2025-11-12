@@ -1,0 +1,15 @@
+{
+    "headline": "Cdc Recommends Vaccinated People Wear Masks Indoors High Transmission Areas",
+    "summary": "The Centers for Disease Control on Tuesday recommended that vaccinated people in areas with \u201csubstantial or high\u201d COVID-19 transmissionwear masks in public indoor settings. As of Tuesday,46% of U.S. counties had \u201chigh transmission\u201dand 17% had \u201csubstantial transmission,\u201d including most counties in most Southern and Western states; every county in Arkansas, Florida and Louisiana had high transmission on Tuesday. CDC Director Rochelle Walensky said the change came after new research showed that vaccinated people with rare \u201cbreakthrough\u201d infections could spread the virus as easily as the unvaccinated. The CDC also recommended on Tuesday thatK-12 students,\u00a0teachers\u00a0and staffwear masks indoors when they return to in-person school, regardless of vaccination status.The CDC previously said in Maythat vaccinated people no longer needed to wear masks in most indoor settings. However,a surge in cases of the more transmissible Delta varianthas led many\u00a0states to see thousands of new cases per day,mainly among the unvaccinated.Coverage in left- and center-rated outlets focused more on rising case numbers, sometimes including maps of high transmission areas. Coverage in right-rated outlets focused more on the CDC\u2019s school mask guidelines, with some coverage focusing on criticism from Florida Gov. Ron DeSantis.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/07/27/health/cdc-mask-guidance-vaccinated-people-bn/index.html"
+        ],
+        "center": [
+            "https://thehill.com/policy/healthcare/565098-cdc-vaccinated-people-should-now-wear-masks-in-high-transmission-areas"
+        ],
+        "right": [
+            "https://www.dailywire.com/news/cdc-revises-mask-guidance-some-vaccinated-individuals-should-return-to-masking-indoors-everyone-should-mask-in-k-12-schools"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "headline": "International Sanctions Threaten Russian Economy",
+    "summary": "The Russianrublelost roughly30%of its value on Monday after countries around the world issuedsweeping economic sanctionsin response toRussia\u2019s ongoing invasion of Ukraine.While\u00a0Russia\u2019s\u00a0central bank had a plan toprop up the value of its currency, international sanctions blocked it from accessing much of its foreign-held reserve funds. Several key Russian banks were cut out ofSWIFT, the worldwide messaging system which banks rely on for international transactions. As a result of these sanctions, major financial services likeVisa, MasterCard,Apple Pay and Google Paywereunavailableto many Russians. Sanctionsdidn\u2019t just come from the West\u2014 countries sanctioning Russia included Japan, Taiwan, Australia, and more. EvenChina, often seen as Russia\u2019s best hope for an economic lifeline, implemented some restrictions;two state-run Chinese banksblocked funding for Russian commodity purchases on Friday.Coverage of Russia\u2019s financial struggle was widespread on Tuesday, particularly in business-focused outlets. The story prompted some moderately sensationalist language, including \u201cRussia's economy getsnailed\u201d from Fox Business (Lean Right) and \u201csanctionsslamits economy\u201d from CNN Business (Lean Left).",
+    "story": {
+        "left": [
+            "https://www.cnbc.com/2022/02/28/long-lines-at-russias-atms-as-bank-run-begins-ruble-hit-by-sanctions.html",
+            "https://www.theguardian.com/world/2022/feb/28/the-damage-is-done-russians-face-economic-point-of-no-return"
+        ],
+        "center": [],
+        "right": [
+            "https://nypost.com/2022/03/01/russias-richest-have-lost-83b-this-year-amid-war-sanctions/"
+        ]
+    }
+}

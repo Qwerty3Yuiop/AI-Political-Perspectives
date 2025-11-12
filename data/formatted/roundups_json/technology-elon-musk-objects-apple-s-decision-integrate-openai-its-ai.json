@@ -1,0 +1,15 @@
+{
+    "headline": "Technology Elon Musk Objects Apple S Decision Integrate Openai Its Ai",
+    "summary": "Appleunveiled its AI project \u201cApple Intelligence\u201dwhich involves OpenAI\u2019s ChatGPT on Monday, prompting an objection from Elon Musk, who said he would ban Apple devices at his companies if OpenAI is integrated at the operating system level.Key Quotes:Muskwroteon X, \u201cApple has no clue what\u2019s actually going on once they hand your data over to OpenAI. They\u2019re selling you down the river.\u201d During the announcement, however, Apple said the cloud intelligence system, named Private Cloud Compute (PCC), was created to \u201cmake sure that personal user data sent to PCC isn\u2019t accessible to anyone other than the user\u2014not even to Apple.\u201dFor Context:Musk was a co-chair at OpenAI when it launched, but his relationship with CEO Sam Altman went awry when he left the company in 2018. Musk has since launched a lawsuit against Altman and OpenAI, and started his own AI company, xAI.How The Media Covered It:Business Insider (Lean Left bias)wrote that Apple users will simply have the option to use OpenAI features and that Musk did not have evidence to back up his claim that Apple has \u201cno clue\u201d what happens to user data.Fox Business (Lean Right bias)noted that Musk\u2019s post had a Community Note under it explaining that ChatGPT was an \"additional feature within Apple Intelligence (that) is limited to Siri and Writing Tools and will require permission from the user for every use.\u201d However, the Community Note under the post as of midday on June 11 did not say this.",
+    "story": {
+        "left": [
+            "https://www.businessinsider.com/elon-musk-threatens-ban-iphones-at-companies-apple-openai-deal-2024-6"
+        ],
+        "center": [
+            "https://fortune.com/2024/06/11/elon-musk-iphones-banned-tesla-x-after-openai-apple-partnership/"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/technology/elon-musk-blasts-apples-approach-ai-threatens-ban-devices-openai-integrated-operating-system"
+        ]
+    }
+}

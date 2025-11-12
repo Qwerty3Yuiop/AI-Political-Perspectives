@@ -1,0 +1,14 @@
+{
+    "headline": "New Cdc Covid 19 Quarantine Guidance Welcomed Some Criticized Others",
+    "summary": "The CDC'snew COVID-19 quarantine guidancehas sparked relief for some and concern for others.Under the new guidance, asymptomatic COVID-positive people should quarantine for five days instead of the previous ten regardless of vaccination status. CDC Director Rochelle Walensky said the update is based on evidence that COVID-19 transmission only occurs early in the illness; Walensky also said the change is needed to \"keep the critical functions of society open and operating.\"Voices in left- and center-rated outlets often focused on concern about the new rules. Somequestionedthe public health implications of issuing unvaccinated people the same guidance as vaccinated and boosted people. Others highlighted doctors and health officials who said the new rules took them by surprise. Some also questioned whetherlobbying by big businessesprompted the change. Opinions from right-rated outlets sometimes praised the loosened quarantine guidance as an acknowledgment that people must begin to live normally again and accept COVID-19 as endemic. Many on the right remained critical of the government's inconsistent health messaging, and said the abrupt change in guidanceprovedthat official COVID-19 recommendations were arbitrary rather than science-based. Some alsoquestionedwhy vaccinated but unboosted people still had to quarantine as much as unvaccinated people.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/12/29/health/cdc-quarantine-guidelines-surprise/index.html",
+            "https://www.npr.org/sections/health-shots/2021/12/28/1068632200/cdc-covid-guidelines-testing"
+        ],
+        "center": [],
+        "right": [
+            "https://nypost.com/2021/12/29/the-cdc-finally-recognizes-the-costs-of-its-top-down-dictates/"
+        ]
+    }
+}

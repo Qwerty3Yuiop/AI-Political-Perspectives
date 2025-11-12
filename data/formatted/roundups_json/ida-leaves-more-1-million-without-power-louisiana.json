@@ -1,0 +1,15 @@
+{
+    "headline": "Ida Leaves More 1 Million Without Power Louisiana",
+    "summary": "Hurricane Ida made landfall as a Category 4 hurricane in Louisiana Sunday night,\u00a0killing at least two people and leaving over 1 million people without power across the state. After hitting the Louisiana coast with winds nearing 150 mph,\u00a0the storm was downgraded to a tropical depression as it passed through Mississippi Tuesday, where\u00a0two more deaths were attributed to the storm Monday. Flights in and out of Louis Armstrong\u00a0New Orleans\u00a0International Airport were canceled Tuesday for the third straight day. One of Louisiana's energy providers saidsome people may be without power for several weeks.The storm was covered across the spectrum, but highlighted more prominently by left- and center-rated sources. Reports often focused on the aftermath, with many highlighting the power outages\u00a0and loss of life; many also mentioned that the storm happened on the 16th anniversary of Hurricane Katrina. Some reports from left-rated sources focused on scientists who attributed the storm's formation to climate change; some coverage from right-rated outlets focused on Ida's economic consequences, such as the possibility that gas prices could rise due to refineries shutting down during the storm. Local news outlets highlighted how the\u00a0$14.5 billion-worth of levees, floodwalls, pumps and gates built in the state after Katrina likely prevented mass flooding and more deaths.",
+    "story": {
+        "left": [
+            "https://www.nbcnews.com/science/environment/hurricane-ida-climate-change-rapid-intensification-rcna1821"
+        ],
+        "center": [
+            "https://www.nola.com/news/hurricane/article_a0a90bc2-09d2-11ec-a5fe-0b351e97fce1.html"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/energy/hurricane-ida-likely-to-spar-major-increase-in-pump-prices"
+        ]
+    }
+}

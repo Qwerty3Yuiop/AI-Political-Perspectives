@@ -1,0 +1,14 @@
+{
+    "headline": "Biden Vaccine Mandates Impact Private Businesses",
+    "summary": "President Joe Bidenannounced last weekthat private U.S. companies with over 100 employees must mandate the COVID-19 vaccine for employees or test unvaccinated employees weekly. The mandate on private businesses has raised legal questions, and several Republican governors have already committed to not enforcing it; Florida Gov. Ron DeSantis hasthreatened fines for companies that do comply with the mandate. Meanwhile, companies that don\u2019t follow the mandate can reportedly face fines of over\u00a0$13,000 per violation. The news comes at an already trying time for America's workforce; there were a record-high 10.9 million job openings at the end of July as\u00a0companies struggle to fill positions and some Americans continue to struggle to find employment.Divided media narratives make it difficult to tell how private businesses feel about the mandate overall. Coverage from left-rated sources often framed businesses as ready and willing to comply with the mandate, highlighting large companies that had already agreed to it, such as Disney and United Airlines. Reports from right-rated sources often did the opposite, questioning\u00a0how the government would enforce the mandate and focusing on business owners who were concerned that the mandate would diminish or frustrate their workforce.",
+    "story": {
+        "left": [
+            "https://www.cnbc.com/2021/09/14/many-workers-are-facing-compulsory-covid-vaccination-or-no-job.html",
+            "https://finance.yahoo.com/news/trump-friendly-companies-comfortable-with-covid-restrictions-112131243.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.washingtonexaminer.com/news/challenges-questions-compliance-biden-vaccine-mandate"
+        ]
+    }
+}

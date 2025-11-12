@@ -1,0 +1,15 @@
+{
+    "headline": "Biden Announces 1 Million Us Lives Lost Covid 19",
+    "summary": "One million Americans have died from COVID-19, according to anannouncement from President Joe Bidenand tallies from multiple news sources.\"One million empty chairs around the dinner table. Each an irreplaceable loss. Each leaving behind a family, a community, and a nation forever changed because of this pandemic,\"\u00a0the president said in a statement Thursday morning. He stressed the need to \"double down on our efforts to get\u00a0shots in people\u2019s arms,\" and called on Congress to \"take the urgent action to provide emergency COVID-19 funding that is vital to protect Americans.\"\u00a0Official tolls say roughly 6.7 million people have died from COVID-19 around the world. Last week, the World Health Organization said that numbermight be closer to 15 million.Sources across the spectrum, especially on the left and center but also on the right, framed the news as a grim and somber milestone. Most coverage from center- and left-rated sources emphasized the tragic nature of the milestone and the grief of people who lost loved ones to the virus. A few outlets, such as Reuters, cited their own tallies when reporting the 1 million deaths instead of citing Biden's announcement as the source.Some reports from right-rated outlets framed Biden and his speech in a negative light, and highlighted his push for more congressional COVID-19 spending alongside mention of inflation concerns and Republicans' criticisms of the idea.",
+    "story": {
+        "left": [
+            "https://abcnews.go.com/Health/unthinkable-tragedy-us-covid-19-death-toll-surpasses/story?id=84502918"
+        ],
+        "center": [
+            "https://www.reuters.com/world/us/covid-claims-1-million-us-lives-leaving-trail-loss-2022-05-11/"
+        ],
+        "right": [
+            "https://nypost.com/2022/05/12/biden-marks-1-million-us-covid-19-deaths-with-funding-demand/"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "headline": "Biden Signs Executive Order Strengthen Us Cybersecurity Colonial Pipeline Launch Restart",
+    "summary": "On Wednesday, President Joe Biden signed anexecutive orderaimed at improving U.S. cybersecurity and defensesafter a ransomware hack caused the Colonial Pipeline, which provides nearly half of the transportation fuel for the East Coast, to shut down. The order, which the White House had been working on for months, will establish a Cybersecurity Safety Review Board to review incidents in multiple agencies, and mandates that federal systems log cybersecurity incidents and use stronger encryption and authentication methods. Also on Wednesday,the Colonial Pipeline announced it will restart operationsafter a six-day shutdown, though the company warns that the restarting process will take several days.\n\nThe story received coverage across the political spectrum. Outlets from the right and center tended to focus on the details of the executive order; some outlets on the left tended to focus on the several cybersecurity incidents Biden has had to respond to, including a Russian cyberespionage operation and Chinese cyberhacking campaign.",
+    "story": {
+        "left": [
+            "https://www.npr.org/2021/05/12/996355601/in-wake-of-pipeline-hack-biden-signs-executive-order-on-cybersecurity",
+            "https://www.washingtonpost.com/national-security/biden-executive-order-cybersecurity/2021/05/12/9269e932-acd5-11eb-acd3-24b44a57093a_story.html"
+        ],
+        "center": [],
+        "right": [
+            "https://nypost.com/2021/05/12/biden-signs-order-on-cybersecurity-after-pipeline-hack/"
+        ]
+    }
+}

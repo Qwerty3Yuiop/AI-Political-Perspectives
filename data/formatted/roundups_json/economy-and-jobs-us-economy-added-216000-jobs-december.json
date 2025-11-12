@@ -1,0 +1,14 @@
+{
+    "headline": "Economy And Jobs Us Economy Added 216000 Jobs December",
+    "summary": "The U.S. economy added 216,000 jobs in December,according to the\u00a0Bureau of Labor Statistics.The Details:Economists expected between 160,000-170,000 jobs added. The unemployment rate stayed at 3.7%. Sectors that added the most jobs included government employment (52,000 added), health care (38,000), and social assistance (21,000).\u00a0The labor force participation rate fell 0.3 percentage points to 62.5%.How the Media Covered It:Sources across the spectrum covered the report similarly and as a top story on Friday.Fox Business (Lean Right bias)said the data shows how the \"labor market remains resilient even in the face of higher interest rates, stubborn inflation and other economic uncertainties.\"CNN Buisness (Lean Left)said the data capped off \"a year of resilience in the labor market.\"",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2024/01/05/economy/jobs-report-december-final/index.html",
+            "https://www.cnbc.com/2024/01/05/jobs-report-december-2023-payrolls-increased-by-216000-in-december.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxbusiness.com/economy/us-jobs-report-december-2023"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Brexit Vote Delayed",
+    "summary": "British Prime Minister Theresa May is postponing Parliament's vote on the Brexit deal to avoid a major defeat.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2018/12/10/uk/brexit-vote-delay-theresa-may-gbr-intl/index.html"
+        ],
+        "center": [
+            "https://www.bbc.com/news/uk-politics-46509288"
+        ],
+        "right": [
+            "https://www.newsmax.com/newsfront/brexit-vote-cancelled-theresa-may/2018/12/10/id/893788/"
+        ]
+    }
+}

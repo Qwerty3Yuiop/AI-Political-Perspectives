@@ -1,0 +1,15 @@
+{
+    "headline": "Fda Approves First Alzheimer S Drug Nearly 20 Years Despite Efficacy Concerns",
+    "summary": "The Food and Drug Administration on Monday approved a drug to treat patients with Alzheimer\u2019s disease for the first time since 2003. Some experts have voiced concerns over conflicting evidence of the drug\u2019s effectiveness, whichprompted the FDA\u2019s independent advisory committee to oppose approvalin November 2020. Biogen, the drug\u2019s developer, will be required to conduct a post-approval confirmatory trial to verify\u00a0the drug's cognitive benefits. The drug, named aducanumab and branded Aduhelm, could be pulled from the market if no benefits are found.Coverage was more widespread in center- and left-rated outlets as of Monday afternoon. Some coverage from across the spectrum focused on the efficacy debate, with other coverage\u00a0focusing on the 20-year gap.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2021/06/07/health/fda-approves-alzheimers-drug.html"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/first-alzheimers-drug-to-slow-disease-is-approved-by-fda-11623078912?mod=hp_lead_pos1"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/lifestyle/fda-approves-biogens-alzheimers-drug"
+        ]
+    }
+}

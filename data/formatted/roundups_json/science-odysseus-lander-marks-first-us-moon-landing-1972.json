@@ -1,0 +1,15 @@
+{
+    "headline": "Science Odysseus Lander Marks First Us Moon Landing 1972",
+    "summary": "Intuitive Machines\u2019 Odysseus lunar lander touched down in\u00a0the moon's South Pole region\u00a0on Thursday, marking the first U.S. trip to the moon since 1972.The Details:Mission control\u00a0was initially unsure of whether Odysseus\u00a0reached the moon intact. Upon landing, the spacecraft only produced a weak signal back to mission control, and flight controllers took several hours to establish a better connection. Data from Odysseus\u00a0began to come in\u00a0roughly two hours after it landed.For Context:The spacecraft is\u00a0designed to operate for seven days on solar energy before the sun sets over its landing site. It\u00a0will study weather\u00a0and other aspects of the\u00a0environment to explore the viability of future moon landings.Odysseus was sent\u00a0to the moon last weekon a SpaceX rocket launched from NASA's Kennedy Space Center in Cape Canaveral, Florida.How the Media Covered It:Sources across the spectrum covered the news as a top story Friday. Stories from left- and center-rated sources often mentioned the issues with the landing\u00a0more prominently than stories from right-rated sources did.Reuters (Center bias)highlighted \"questions about whether the vehicle may have been left impaired or obstructed in some way.\"The Associated Press (Lean Left bias)mentioned how Intuitive Machines \"ended its live webcast soon after identifying a lone, weak signal from the lander.\"",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2024/02/22/world/moon-landing-intuitive-machines-nasa-scn"
+        ],
+        "center": [
+            "https://www.reuters.com/technology/space/us-achieves-first-moon-landing-half-century-with-private-spacecraft-2024-02-23/"
+        ],
+        "right": [
+            "https://nypost.com/2024/02/22/us-news/private-us-lunar-lander-touches-down-on-the-moon-first-time-since-1972/"
+        ]
+    }
+}

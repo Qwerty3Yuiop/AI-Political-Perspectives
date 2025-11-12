@@ -1,0 +1,15 @@
+{
+    "headline": "Epa Finalizes Tighter Fuel Emissions Standards 2026",
+    "summary": "Manufacturers of new cars and light trucks will be required to achieve a fleet average of 40 miles per gallon by 2026, according to\u00a0Environmental Protection Agencystandards finalized Monday.Some outlets across the spectrum reported a different number \u2014 55 miles per gallon \u2014 likely because they used a different figure fromthe EPA\u2019s regulatory update document; the\u00a0\u201c40 miles per gallon\u201d figure is adjusted for \u201creal-world impacts\u201d on emissions, like \u201chigh speed driving, air conditioning usage, and cold temperatures.\u201d The new rules specify that cars built for model years 2023-2026 must raise fuel efficiency 5-10% each year to meet a 161 grams per mile standard for carbon dioxide emissions.Coverage from the left tended to highlight climate change and the Trump administration\u2019s looser emissions rules. Some coverage from the right framed the rules as \u201cstrict.\u201d\u00a0Headlines differed in describing the standards; The New York Times (Lean Left) called them \u201cstrengthened limits on pollution,\u201d and Fox News (Right) called them \u201ctougher new fuel economy rules.\u201d Most headlines said the rules \u201craised\u201d or \u201ctightened\u201d standards.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/12/20/politics/epa-auto-emissions-standards/index.html"
+        ],
+        "center": [
+            "https://www.rollcall.com/2021/12/20/epa-finalizes-tougher-vehicle-emission-standards/"
+        ],
+        "right": [
+            "https://www.foxnews.com/auto/epa-finalizes-tougher-new-fuel-economy-rules"
+        ]
+    }
+}

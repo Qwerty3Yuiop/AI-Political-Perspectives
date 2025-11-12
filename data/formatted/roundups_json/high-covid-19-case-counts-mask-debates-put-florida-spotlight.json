@@ -1,0 +1,14 @@
+{
+    "headline": "High Covid 19 Case Counts Mask Debates Put Florida Spotlight",
+    "summary": "Florida's seven-day average of new COVID-19 cases has risen steadily in August amid the spread of the Delta variant, and the state currently has the highest seven-day average of new cases in the country. According toNew York Times (Lean Left bias) data, an average of roughly 16,500 people in Florida are hospitalized with COVID-19 every day, the most of any state; Texas (12,357) is the only other state with an average higher than 10,000. Gov. Ron DeSantis (R) opposes coronavirus restrictions including mask and vaccine mandates; he hascalled on\u00a0schools to let parents decidewhether children wear masks, and has threatened financial repercussions for schools and administrators who defy the edict.The state's COVID-19 situation has been covered more by center- and left-rated outlets than\u00a0by right-rated outlets. Coverage from left- and center-rated sources has often focused on the high case counts,concerns about over-capacity at hospitals, debates over mask mandates in schools, and DeSantis' management of the situation, with some framing him as a poor leader. Some reports from right-rated outlets highlighted a University of South Florida epidemiology professor who predicted Florida's current spike will peak next week, with the possibility of reaching herd immunity in three weeks if vaccination rates improve.",
+    "story": {
+        "left": [
+            "https://www.axios.com/florida-schools-masks-hillsborough-miami-dade-covid-2a70722c-51c2-486c-b262-c136bcc86cc3.html",
+            "https://www.cnn.com/2021/08/20/politics/ron-desantis-masks-florida-schools-covid-19/index.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxnews.com/health/florida-covid-19-surge-next-week"
+        ]
+    }
+}

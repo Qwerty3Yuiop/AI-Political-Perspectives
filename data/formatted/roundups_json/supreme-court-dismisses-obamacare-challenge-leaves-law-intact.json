@@ -1,0 +1,15 @@
+{
+    "headline": "Supreme Court Dismisses Obamacare Challenge Leaves Law Intact",
+    "summary": "The Supreme Court rejected the latest GOP attempt to challenge the Affordable Care Act, also known as Obamacare, ruling 7-2 that the plaintiffs did not have standing to challenge the law.Justice Stephen Breyer wrote the majority opinion, arguing that the plaintiffs could not bring their case to federal court because they had not shown any harm \"fairly traceable\"\u00a0to Obamacare\u2019s individual mandate, which Republicans lowered to $0 in 2017.Obamacare was still expected to survivebeyond the question of standing, thanks to the opinions of Chief Justice John Roberts and\u00a0Justice\u00a0Brett Kavanaugh that the individual mandate could be \"severed\"\u00a0from the rest of the law. The court\u2019s ruling leaves the entire law intact, including the individual mandate.Center- and left-rated outlets tended to feature this story prominently on homepages; right-rated outlets tended to feature another Supreme Court ruling, which sided with a Catholic adoption agency that excluded same-sex couples for religious reasons.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/06/17/politics/supreme-court-affordable-care-act-obamacare/index.html"
+        ],
+        "center": [
+            "https://www.scotusblog.com/2021/06/court-again-leaves-affordable-care-act-in-place/"
+        ],
+        "right": [
+            "https://www.nationalreview.com/news/supreme-court-dismisses-latest-affordable-care-act-challenge/"
+        ]
+    }
+}

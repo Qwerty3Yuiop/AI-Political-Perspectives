@@ -1,0 +1,15 @@
+{
+    "headline": "Public Health Us Measles Cases Hit Record High",
+    "summary": "US measles cases have hit their highest point since the virus was declared eliminated in 2000, with 1,277 confirmed cases across 38 states and Washington, D.C. in 2025.The Details:Most of the cases this year were from an outbreak in West Texas, and the majority of those affected were either unvaccinated or their vaccination status was unknown. A 95% vaccination rate is reportedly needed to achieve herd immunity for measles; around 93% of people in the US are vaccinated against the virus. Up to90% of unvaccinated peoplecontract measles if exposed, according to the Centers for Disease Control and Prevention (CDC).For Context:USvaccination rateshave reportedly been declining since 2020, and debates surrounding vaccines amplified with the appointment of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr., who is skeptical of some vaccines and their side effects. A group ofmedical organizations filed a lawsuitagainst Kennedy and the HHS last week over recentproposed rollbackson COVID-19 vaccine recommendations.How The Media Covered It:News outlets across the political spectrum emphasized the seriousness of the virus and role of the vaccination in controlling it, but outlets on the left tended to frame Kennedy more negatively.The New York Times (Lean Left bias)said Kennedy \u201cdownplayed the outbreak, offered only muted support of vaccines and endorsed unproven treatments for the virus,\u201d whileWashington Examiner (Lean Right)did not mention Kennedy\u2019s potential role in the case increase.Newsweek (Center)focused more on statistics and the negative effects of polarization on policy improvements.Revised by the AllSides staff (of humans) after a first draft from our custom AI.Learn more.Support our mission.Suggest an improvement to this summary.",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2025/07/09/well/us-measles-record-outbreaks.html"
+        ],
+        "center": [
+            "https://www.newsweek.com/us-measles-cases-all-time-high-after-disease-eliminated-2095213"
+        ],
+        "right": [
+            "https://www.washingtonexaminer.com/policy/healthcare/3464746/measles-cases-increase-highest-level-united-states-2000/"
+        ]
+    }
+}

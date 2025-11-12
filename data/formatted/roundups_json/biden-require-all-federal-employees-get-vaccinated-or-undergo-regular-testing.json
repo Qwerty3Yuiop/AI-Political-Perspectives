@@ -1,0 +1,15 @@
+{
+    "headline": "Biden Require All Federal Employees Get Vaccinated Or Undergo Regular Testing",
+    "summary": "President Joe Biden announced a\u00a0series of new protocols on Thursday in an attempt to\u00a0get more Americans vaccinated and slow down the spread of COVID-19, including a new rule that requires all federal employees to be vaccinated or\u00a0submit to a series of safety protocols.\u00a0The president's new rule will apply to about 4 million people who work for the federal government, including contractors employed at federal sites. Similar steps are being taken by local governments and private institutions.\u00a0Additionally, Biden called\u00a0on state and local governments to give out $100 prizes to those who go out and get vaccinated.Left-rated outlets often\u00a0highlighted how most COVID-19 hospitalizations and deaths across the country are linked to unvaccinated people. Right-rated sources were more likely to emphasize how federal employees are not required to get vaccinated and can choose to get tested regularly.",
+    "story": {
+        "left": [
+            "https://www.cnn.com/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
+        ],
+        "center": [
+            "https://www.reuters.com/world/us/biden-federal-worker-vaccination-push-affect-millions-2021-07-29/"
+        ],
+        "right": [
+            "https://www.foxnews.com/politics/biden-federal-workers-vaccines"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "headline": "Technology Apple Enters Artificial Intelligence Race Unveiling Apple Intelligence",
+    "summary": "On Monday, Apple unveiled \u201cApple Intelligence,\u201d the tech giant\u2019s project to integrate artificial intelligence into Apple products.Key Quote:Apple CEO Tim Cook stated during the presentation, \u201cAs we look to build in these incredible new capabilities, we want to be sure that the outcome reflects the principles at the core of our products. It has to be powerful enough to help the things that matter the most to you. It has to be intuitive and easy to do.\u201d Apple executive Craig Federighi stated,\u00a0 \u201cApple Intelligence is the personal intelligence system that puts powerful generative models right at the core of your iPhone, iPad and Mac. It draws on your personal context to give you intelligence that\u2019s most helpful and relevant to you.\u201dHow the Media Covered It:Coverage from theNew York Times (Lean Left bias)stated that Apple \u201ccould do more than any other company to add credibility to a technology that has more than a few critics, who worry that it is mistake-prone and could add to the flood of misinformation already on the internet\u201d and could \u201calso help calm concerns that the iPhone maker had slipped behind its biggest rivals in the tech industry\u2019s embrace of artificial intelligence.\u201dThe Wall Street Journal (Center bias)determined Apple previewed \u201cwhat many consider to be the holy grail of AI, a voice assistant empowered with enough personal user information to meaningfully help complete an array of tasks.\u201d",
+    "story": {
+        "left": [
+            "https://www.nytimes.com/2024/06/10/technology/apple-intelligence-openai.html"
+        ],
+        "center": [
+            "https://www.wsj.com/tech/ai/apple-wwdc-2024-ai-release-356c5303?mod=hp_lead_pos1"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/technology/apple-unveils-apple-intelligence-wwdc"
+        ]
+    }
+}

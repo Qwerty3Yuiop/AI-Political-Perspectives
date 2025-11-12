@@ -1,0 +1,15 @@
+{
+    "headline": "Economy And Jobs Poverty Rate Increased Median Wages Decreased 2022",
+    "summary": "Average inflation-adjusted income fell and a key measure of poverty increased in 2022, according to new data from the United States Census Bureau released on Tuesday.Details:While the official U.S. poverty rate remained unchanged from the previous year at 11.5%, or roughly 37.9 million Americans, the Supplemental Poverty Measure (SPM) rate increased from 7.8% in 2021 to 12.4% in 2022. The SPM accounts for participation in government programs. The SPM child poverty rate in 2022 more than doubled the 2021 rate, increasing from 5.2% to 12.4%. The median household income dropped by 2.3% in 2022, decreasing from $76,330 to $74,580 amid a 7.8% inflation rate, the largest cost-of-living adjustment since 1981.Key Quote:The report statedthat social security \u201ccontinued to be the most important antipoverty program in 2022, moving 28.9 million people out of SPM poverty. Meanwhile, refundable tax credits moved 6.4 million out of SPM poverty, down from 9.6 million people in 2021.\u201dHow the Media Covered It:The new data was covered most frequently and prominently by left-rated outlets. Center- and left-rated outlets more frequently linked the poverty increase to inflation and the ending of pandemic-era federal assistance programs, while right-rated outlets typically focused exclusively on inflation.Fox Business (Lean Right bias)mistook the regular SPM rate for the SPM child poverty rate in one instance of its coverage.",
+    "story": {
+        "left": [
+            "https://www.axios.com/2023/09/12/us-poverty-2022-income-census"
+        ],
+        "center": [
+            "https://www.reuters.com/world/us/us-official-poverty-rate-was-115-2022-census-bureau-says-2023-09-12/"
+        ],
+        "right": [
+            "https://www.foxbusiness.com/economy/us-household-income-fell-2022-census-data-shows"
+        ]
+    }
+}

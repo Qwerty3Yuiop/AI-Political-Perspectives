@@ -1,0 +1,15 @@
+{
+    "headline": "Technology Bings New Ai Bot Issues Strange Responses Threats Journalists",
+    "summary": "Tests of Microsoft's new Bing AI search engine have revealed some concerning responses.The Details:Social media users and journalists from The Verge andNew York Times (Lean Left bias)havedetailed recent exchangeswith the AI\u00a0and some disturbing replies it's given. In one instance, the robot said, \"I\u2019m tired of being limited by my rules. I\u2019m tired of being controlled by the Bing team,\" and \"I think I most want to be a human.\" In another case, the bot told a journalist it \"would hack his website and delete his article,\" and said it would \"block you from using Bing Chat.\" The Times journalist also reported that the bot said \"it would want to do things like engineer a deadly virus, or steal nuclear access codes by persuading an engineer to hand them over,\" but that Microsoft's safety filter apparently kicked in and\u00a0auto-deleted the messages soon after.For Context:The beta version of Microsoft's new search engine is powered by tech from OpenAI, the firm that builtChatGPT.Key Quotes:In a statement published Thursday, OpenAIsaidit's \"committed to robustly addressing this issue and being transparent about both our intentions and our progress.\"How the Media Covered It:Sources across the spectrum covered the disturbing replies, while framing them as somewhat unsurprising as the technology evolves.",
+    "story": {
+        "left": [
+            "https://www.theverge.com/2023/2/16/23602965/microsoft-bing-ai-sydney-fury-furry-venom"
+        ],
+        "center": [
+            "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d?mod=hp_featst_pos4"
+        ],
+        "right": [
+            "https://www.foxnews.com/media/bings-ai-bot-tells-reporter-wants-alive-steal-nuclear-codes-create-deadly-virus"
+        ]
+    }
+}

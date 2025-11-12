@@ -1,0 +1,15 @@
+{
+    "headline": "Perspectives Concerns About Consumer Inflation",
+    "summary": "Rising consumer prices are spurring concerns and debates nationwide as the economic recovery from the COVID-19 pandemic continues. The consumer price index (CPI) rose 4.2 percent year over year in April, the fastest increase since September 2008. Prices have risen recently across many sectors, including energy, used automobiles, airlines and hotels. The National Federation of Independent Business (NFIB)reported that in April, the percentage of small-business owners who raised their average prices month over month increased 10 points to 36% in April, the highest point in 40 years. Federal Reserve officials have described the price hikes as a temporary effect of the quickening economic recovery.\n\nOutlets on all sides have covered the recent inflation. Coverage from left-rated sources sometimes framed it as less concerning than right-rated sources did, describing the rising prices while also highlighting strategies consumers could use to spend less. Reports from right-rated sources typically painted inflation as more of a dire concern, and focused on the economic shutdown amid the pandemic as a potential cause for price rises. Other coverage highlighted economists who worry that President Joe Biden'sambitious spending plans could increase inflation; investor concerns were also a subject of reports throughout the spectrum.",
+    "story": {
+        "left": [
+            "https://www.washingtonpost.com/business/2021/05/13/inflation-stock-market-consumer-fears/"
+        ],
+        "center": [
+            "https://www.marketwatch.com/story/is-this-good-inflation-or-bad-inflation-stock-market-investors-are-rattled-because-they-cant-tell-11621022033"
+        ],
+        "right": [
+            "https://www.theepochtimes.com/as-prices-rise-fed-dismisses-inflation-worries_3819206.html?utm_source=partner&utm_campaign=allsides"
+        ]
+    }
+}

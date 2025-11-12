@@ -1,0 +1,14 @@
+{
+    "headline": "Texas Democrats Leave State Legislature Considers Voting Bill",
+    "summary": "Texas Democrats left the state Monday in an effort to prevent the Republican-controlled\u00a0state legislature from passing a voting bill. The bill would require new\u00a0forms of voter identification for mail-in voting and prohibit drive-thru voting and overnight early voting. Supporters of the bill say it would enhance election integrity and security; those who oppose the bill say it would restrict voter access in marginalized communities. When the original bill was introduced in late May, Democrats staged a walkout; the new legislation omits a ban on Sunday morning voting, which many Democrats claim\u00a0targets\u00a0black voters.The New York Timesreported that more than 51 of the 67 State House Democrats left for Washington, D.C. Monday to deny Republicans\u00a0the minimum number of people required to conduct business. Democratic lawmakers could face arrest for leaving the state under Texas law.The story received wide coverage from across the political spectrum. The left and center tended to focus on the details of the bill; some\u00a0on the right, including Texas Gov. Greg Abbott, criticized Democrats for leaving much of their work undone.",
+    "story": {
+        "left": [
+            "https://apnews.com/article/joe-biden-government-and-politics-texas-voting-c05ff78698d843674ec917085f6cc6da",
+            "https://www.nytimes.com/2021/07/12/us/politics/texas-democrats-voting-bill.html"
+        ],
+        "center": [],
+        "right": [
+            "https://www.foxnews.com/politics/texas-democrats-planning-to-skip-town-once-again-as-legislature-reconsiders-voting-bills"
+        ]
+    }
+}
