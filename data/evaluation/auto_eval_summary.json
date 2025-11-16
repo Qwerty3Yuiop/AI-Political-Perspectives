@@ -1,0 +1,10 @@
+{
+  "num_samples": 50,
+  "missing_prompts": 0,
+  "topic_similarity_mean": 0.7186600199714303,
+  "reference_similarity_mean": 0.66750567978248,
+  "stance_accuracy": 0.18,
+  "distinct_1": 0.2666837947202775,
+  "distinct_2": 0.6631226238804047,
+  "pairwise_bleu": 0.024287273964475692
+}
